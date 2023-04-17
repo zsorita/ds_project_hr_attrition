@@ -3,15 +3,27 @@
 
 # # HR Attrition
 
+# Research Objectives:
+# 
+# 1. Identify possible factors contributing to employees leaving an organization. 
+# 2. Predict or prevent turnover.
+# 3. Quantify costs of losing employees.
+# 4. Nurture the culture of retention within the organization.
+# 
+# 1. Find out why employees leave.
+# 2. Try to stop or predict employees from leaving.
+# 3. Calculate how much it costs to lose employees.
+# 4. Create an environment that encourages employees to stay.
+
 # SETUP
 
-# In[1]:
+# In[2]:
 
 
 # !pip install kmodes
 
 
-# In[2]:
+# In[3]:
 
 
 import pandas as pd
@@ -27,7 +39,7 @@ warnings.filterwarnings("ignore")
 from kmodes.kmodes import KModes
 
 
-# In[3]:
+# In[4]:
 
 
 attrition_data = pd.read_csv("IBM_HR-Attrition.csv")
@@ -36,43 +48,43 @@ attrition_data.head(2)
 
 # # Drop unnecessary columns
 
-# In[4]:
+# In[5]:
 
 
 attrition_data.drop(columns=["EmployeeCount", "EmployeeNumber", "StandardHours", "StockOptionLevel"], inplace=True)
 
 
-# In[5]:
+# In[6]:
 
 
 attrition_data.info()
 
 
-# In[6]:
+# In[7]:
 
 
 attrition_data.describe().T
 
 
-# In[7]:
+# In[8]:
 
 
 attrition_data.isnull().any()
 
 
-# In[8]:
+# In[9]:
 
 
 attrition_data.isna().any()
 
 
-# In[9]:
+# In[10]:
 
 
 attrition_data.columns
 
 
-# In[10]:
+# In[11]:
 
 
 # numeric and categorical columns
@@ -83,14 +95,14 @@ cat_col = attrition_data.describe(include="object").columns.tolist()
 # cat_col
 
 
-# In[11]:
+# In[12]:
 
 
 corr = attrition_data[num_col].corr()
 corr
 
 
-# In[12]:
+# In[13]:
 
 
 cmap = sns.diverging_palette(180, 10, as_cmap=True)
@@ -98,7 +110,7 @@ sns.heatmap(corr, vmax=.3, center=0, cmap=cmap, square=True)
 plt.show()
 
 
-# In[13]:
+# In[14]:
 
 
 Attrition_Yes = attrition_data[attrition_data["Attrition"] == "Yes"]
@@ -108,14 +120,14 @@ Attrition_Mean.columns = ["Yes","No"]
 Attrition_Mean.round(2).style.background_gradient(cmap="Pastel1",axis=1)
 
 
-# In[14]:
+# In[15]:
 
 
 Attrition_Yes["Attrition"].value_counts() 
 # = 237
 
 
-# In[15]:
+# In[16]:
 
 
 Attrition_No["Attrition"].value_counts()
@@ -126,7 +138,7 @@ Attrition_No["Attrition"].value_counts()
 
 # # Attrition Count
 
-# In[16]:
+# In[17]:
 
 
 chart_1=sns.countplot(x="Attrition", data=attrition_data).set(xlabel=None, ylabel=None)
@@ -137,7 +149,7 @@ plt.show()
 
 # Determine numeric and categorical values.
 
-# In[17]:
+# In[18]:
 
 
 # numeric and categorical columns
@@ -148,14 +160,14 @@ cat_col = attrition_data.describe(include="object").columns.tolist()
 # cat_col
 
 
-# In[18]:
+# In[19]:
 
 
 corr = attrition_data[num_col].corr()
 corr
 
 
-# In[19]:
+# In[20]:
 
 
 cmap = sns.diverging_palette(180, 10, as_cmap=True)
@@ -165,115 +177,127 @@ plt.show()
 
 # # Age
 
-# In[20]:
+# In[51]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.histplot(data=attrition_data, x="Age", hue="Attrition", kde=True).set(xlabel=None, ylabel=None)
 plt.show()
 
 
 # # Gender
 
-# In[21]:
+# In[67]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.countplot(data=attrition_data, x="Gender", hue="Attrition").set(xlabel=None, ylabel=None)
 plt.show()
 
 
 # # Marital Status
 
-# In[22]:
+# In[66]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.histplot(data=attrition_data, x="MaritalStatus", hue="Attrition").set(xlabel=None, ylabel=None)
 plt.show()
 
 
 # # Department
 
-# In[23]:
+# In[65]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.countplot(data=attrition_data, x="Department", hue="Attrition").set(xlabel=None, ylabel=None)
 plt.show()
 
 
-# In[24]:
+# In[62]:
 
+
+plt.figure(figsize=(6,3), dpi=200)
 
 dept_data = attrition_data[attrition_data['Department'] == 'Research & Development']
-
 sns.countplot(data=dept_data, y='JobRole', hue='Attrition')
 plt.show()
 
 
 # # Satisfaction
 
-# In[25]:
+# In[64]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.countplot(data=attrition_data, x="EnvironmentSatisfaction", hue="Attrition").set(xlabel=None, ylabel=None)
 plt.show()
 
 
 # # Job Satisfaction
 
-# In[26]:
+# In[69]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.countplot(data=attrition_data, x="JobSatisfaction", hue="Attrition").set(xlabel=None, ylabel=None)
 plt.show()
 
 
 # # Travel
 
-# In[27]:
+# In[70]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.countplot(data=attrition_data, x="BusinessTravel", hue="Attrition").set(xlabel=None, ylabel=None)
 plt.show()
 
 
 # # Overtime
 
-# In[28]:
+# In[71]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.histplot(data=attrition_data, x="OverTime", hue="Attrition").set(xlabel=None, ylabel=None)
 plt.show()
 
 
 # # Total Working Years
 
-# In[29]:
+# In[72]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.histplot(data=attrition_data, x="TotalWorkingYears", hue="Attrition").set(xlabel=None, ylabel=None)
 plt.show()
 
 
 # # Years at Company
 
-# In[30]:
+# In[73]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.histplot(data=attrition_data, x="YearsAtCompany", hue="Attrition").set(xlabel=None, ylabel=None)
 plt.show()
 
 
 # # Years In Current Role
 
-# In[31]:
+# In[74]:
 
 
+plt.figure(figsize=(6,3), dpi=200)
 sns.histplot(data=attrition_data, x="YearsInCurrentRole", hue="Attrition").set(xlabel=None, ylabel=None)
 plt.show()
 
 
 # # Monthly Income
 
-# In[32]:
+# In[78]:
 
 
 sns.displot(data=attrition_data, x="MonthlyIncome", hue="Attrition", kind="kde")
@@ -282,7 +306,7 @@ plt.show()
 
 # # Distance From Home
 
-# In[33]:
+# In[79]:
 
 
 sns.displot(data=attrition_data, x="DistanceFromHome", hue="Attrition", kind="kde")
@@ -291,7 +315,7 @@ plt.show()
 
 # # Clustering
 
-# In[34]:
+# In[35]:
 
 
 def run_kmodes(n_clusters=None, filtered_data_cluster=None):
@@ -311,13 +335,13 @@ def run_kmodes(n_clusters=None, filtered_data_cluster=None):
   return kmodes.cost_, kmodes.labels_
 
 
-# In[35]:
+# In[36]:
 
 
 cost_values = []
 
 
-# In[36]:
+# In[37]:
 
 
 for k in range(1, 21):
@@ -331,7 +355,7 @@ for k in range(1, 21):
   cost_values.append(cost)
 
 
-# In[37]:
+# In[38]:
 
 
 # Set figure size
@@ -349,7 +373,7 @@ plt.ylabel("Cost")
 plt.show()
 
 
-# In[38]:
+# In[39]:
 
 
 # Run our K-Modes function for n_clusters
@@ -359,28 +383,43 @@ cost, labels = run_kmodes(
 )
 
 
-# In[39]:
+# In[40]:
 
 
 attrition_data['labels']= labels
 attrition_data
 
 
-# In[40]:
+# In[41]:
 
 
 attrition_data['labels'].value_counts().sort_index()
 
 
-# In[41]:
+# In[42]:
 
 
 attrition_data.groupby('labels').agg(pd.Series.mode)
 
 
-# In[42]:
+# In[88]:
 
 
-# clustered_data_1 = attrition_data.groupby('labels').agg(pd.Series.mode)
+clustered_data_1 = attrition_data.groupby('labels').agg(pd.Series.mode)
+
+# Save Clustered Data
 # clustered_data_1.to_csv('clustered_data_1', index=False)
+
+
+# In[95]:
+
+
+pd.set_option('display.max_columns', None)
+clustered_data_1.head(9)
+
+
+# In[ ]:
+
+
+
 

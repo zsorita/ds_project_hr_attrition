@@ -1,0 +1,13 @@
+Age,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+35,No,Travel_Rarely,217,Sales,2,3,Life Sciences,4,Male,46,3,2,Sales Executive,3,Single,1,Y,No,13,3,4,10,2,3,10,7,0,7
+34,No,Travel_Rarely,688,Research & Development,1,3,Life Sciences,4,Male,32,3,2,Research Scientist,4,Divorced,1,Y,No,13,3,1,10,3,3,7,7,1,7
+30,No,Travel_Rarely,[ 202 1082],Research & Development,2,3,Life Sciences,3,Male,79,3,1,Laboratory Technician,3,Married,1,Y,No,11,3,3,1,3,3,1,0,0,0
+40,No,Travel_Rarely,[ 419  541 1111 1329],Sales,2,4,Life Sciences,4,Male,[42 48 61 67 88 98],3,2,Sales Executive,4,Married,4,Y,No,11,3,3,8,2,3,3,2,1,2
+27,No,Travel_Rarely,[201 691],Research & Development,2,3,Life Sciences,3,Male,84,3,1,Research Scientist,3,Married,0,Y,No,13,3,4,6,3,3,5,2,1,2
+29,No,Travel_Rarely,[ 364  894 1005 1017 1431 1469],Research & Development,1,3,Medical,4,Female,86,2,1,Research Scientist,3,Single,1,Y,No,14,3,3,5,2,3,5,2,0,2
+35,Yes,Travel_Rarely,"[ 103  172  185  192  224  267  289  307  318  334  335  370  383  427
+  432  439  441  495  528  548  575  592  602  603  622  636  652  676
+  699  702  727  755  776  836  885  906  967  981  982 1012 1033 1125
+ 1150 1167 1179 1198 1218 1329 1351 1355 1366 1384 1389 1404 1445 1475]",Research & Development,9,4,Life Sciences,3,Male,100,2,1,Laboratory Technician,1,Single,1,Y,No,11,3,2,10,2,3,5,2,0,3
+35,No,Travel_Rarely,[430 817],Sales,1,3,Medical,2,Female,54,3,2,Sales Executive,4,Married,1,Y,No,14,3,4,10,2,3,2,2,0,2
+31,No,Travel_Rarely,[ 153  334  429  501  583  783 1199],Research & Development,1,2,Medical,3,Male,80,3,2,Healthcare Representative,1,Married,1,Y,Yes,12,3,4,10,2,3,5,2,0,2

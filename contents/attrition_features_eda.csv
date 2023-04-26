@@ -1,0 +1,1471 @@
+Attrition,BusinessTravel,EnvironmentSatisfaction,Gender,JobLevel,JobSatisfaction,MonthlyIncome,OverTime,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,Age_Profile,Age_cat,Gender_cat,BusinessTravel_cat,OverTime_cat,WorkLifeBalance_cat,EnvironmentSatisfaction_cat,JobLevel_cat,JobSatisfaction_cat,TrainingTimesLastYear_cat
+1,1,2,0,2,4,5993,1,0,1,6,2,Adult (26-44),Female,Travel Rarely,Yes,Bad,Medium,Junior,Very High,No Training
+0,2,3,1,2,2,5130,0,3,3,10,3,Middle-age (45-59),Male,Travel Frequently,No,Better,High,Junior,Medium,5-6
+1,1,4,1,1,3,2090,1,3,3,0,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Entry,High,5-6
+0,2,4,0,1,3,2909,1,3,3,8,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Very High,Entry,High,5-6
+0,1,1,1,1,2,3468,0,3,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,Medium,5-6
+0,2,4,1,1,4,3068,0,2,2,7,2,Adult (26-44),Male,Travel Frequently,No,Good,Very High,Entry,Very High,3-4
+0,1,3,0,1,1,2670,1,3,2,1,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,High,Entry,Low,5-6
+0,1,4,1,1,3,2693,0,2,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,High,3-4
+0,2,4,1,3,3,9526,0,2,3,9,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Middle,High,3-4
+0,1,3,1,2,3,5237,0,3,2,7,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Junior,High,5-6
+0,1,1,1,1,2,2426,0,5,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,Medium,9-10
+0,1,4,0,2,3,4193,1,3,3,9,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Junior,High,5-6
+0,1,1,1,1,3,2911,0,1,2,5,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Entry,High,1-2
+0,1,2,1,1,4,2661,0,2,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Very High,3-4
+1,1,3,1,1,3,2028,1,4,3,4,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Entry,High,7-8
+0,1,2,0,3,1,9980,0,1,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Middle,Low,1-2
+0,1,1,1,1,2,3298,1,5,2,6,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Low,Entry,Medium,9-10
+0,3,4,1,1,4,2935,1,2,2,1,1,Young Adult (18-25),Male,Non-Travel,Yes,Good,Very High,Entry,Very High,3-4
+0,1,1,0,4,4,15427,0,3,3,25,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Low,Senior,Very High,5-6
+0,1,4,1,1,4,3944,1,3,3,3,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Entry,Very High,5-6
+0,3,1,0,2,3,4011,0,5,2,4,1,Young Adult (18-25),Female,Non-Travel,No,Good,Low,Junior,High,9-10
+1,1,3,1,1,1,3407,0,4,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Low,7-8
+0,1,1,0,3,2,11994,0,4,3,12,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Middle,Medium,7-8
+0,1,3,1,1,4,1232,0,6,3,0,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,Very High,More than 10
+1,1,2,1,1,1,2960,0,2,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Low,3-4
+0,1,3,0,5,3,19094,0,3,2,14,3,Middle-age (45-59),Female,Travel Rarely,No,Good,High,Executive,High,5-6
+1,2,2,0,1,1,3919,1,5,3,10,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Medium,Entry,Low,9-10
+0,1,3,1,2,2,6825,0,2,3,9,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Medium,3-4
+0,1,1,0,3,4,10248,0,4,3,22,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Middle,Very High,7-8
+0,1,2,0,5,1,18947,0,2,2,2,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Medium,Executive,Low,3-4
+0,1,3,1,1,4,2496,0,3,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Very High,5-6
+0,1,4,1,2,4,6465,1,5,4,4,2,Adult (26-44),Male,Travel Rarely,Yes,Best,Very High,Junior,Very High,9-10
+0,1,4,1,1,3,2206,0,5,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,High,9-10
+1,1,4,1,2,4,2086,0,6,4,1,2,Adult (26-44),Male,Travel Rarely,No,Best,Very High,Junior,Very High,More than 10
+1,1,2,1,1,4,2293,1,2,2,2,1,Young Adult (18-25),Male,Travel Rarely,Yes,Good,Medium,Entry,Very High,3-4
+0,1,4,0,1,3,2645,0,3,2,5,2,Adult (26-44),Female,Travel Rarely,No,Good,Very High,Entry,High,5-6
+1,1,1,1,1,3,2683,1,2,3,3,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Low,Entry,High,3-4
+0,1,4,0,1,4,2014,0,3,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,Very High,5-6
+0,1,2,0,1,1,3419,1,3,4,1,2,Adult (26-44),Female,Travel Rarely,Yes,Best,Medium,Entry,Low,5-6
+0,2,3,0,2,1,5376,0,3,3,5,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Junior,Low,5-6
+0,1,3,1,1,4,1951,0,3,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Very High,5-6
+0,1,4,0,1,1,2341,0,6,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,Low,More than 10
+1,1,1,1,1,3,2293,0,2,2,1,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Entry,High,3-4
+0,2,4,1,3,3,8726,0,0,3,9,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Middle,High,No Training
+0,2,3,0,2,4,4011,0,2,3,12,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Junior,Very High,3-4
+1,1,2,0,5,3,19545,0,0,3,22,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Executive,High,No Training
+0,3,2,1,2,3,4568,0,2,3,9,2,Adult (26-44),Male,Non-Travel,No,Better,Medium,Junior,High,3-4
+0,1,2,1,1,2,3022,0,1,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Medium,1-2
+0,2,1,1,2,4,5772,1,4,3,9,3,Middle-age (45-59),Male,Travel Frequently,Yes,Better,Low,Junior,Very High,7-8
+0,1,4,1,1,4,2269,0,2,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Very High,3-4
+1,1,1,1,3,3,5381,1,2,3,1,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Low,Middle,High,3-4
+1,1,3,1,1,3,3441,1,3,2,2,2,Adult (26-44),Male,Travel Rarely,Yes,Good,High,Entry,High,5-6
+0,1,2,0,2,1,5454,1,2,2,4,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Medium,Junior,Low,3-4
+0,3,3,1,3,1,9884,1,3,3,4,2,Adult (26-44),Male,Non-Travel,Yes,Better,High,Middle,Low,5-6
+0,1,3,0,2,4,4157,1,2,2,2,2,Adult (26-44),Female,Travel Rarely,Yes,Good,High,Junior,Very High,3-4
+0,2,1,0,3,4,13458,1,1,3,15,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Low,Middle,Very High,1-2
+0,2,2,1,3,1,9069,0,3,2,9,2,Adult (26-44),Male,Travel Frequently,No,Good,Medium,Middle,Low,5-6
+0,1,3,0,1,1,4014,1,3,3,2,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Entry,Low,5-6
+0,1,4,1,2,4,5915,0,3,2,7,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Junior,Very High,5-6
+0,1,1,1,2,3,5993,0,2,4,7,2,Adult (26-44),Male,Travel Rarely,No,Best,Low,Junior,High,3-4
+0,1,1,1,2,4,6162,1,3,3,9,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Low,Junior,Very High,5-6
+0,2,4,0,2,4,2406,0,2,3,10,2,Adult (26-44),Female,Travel Frequently,No,Better,Very High,Junior,Very High,3-4
+0,1,2,0,5,3,18740,1,2,2,27,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,Medium,Executive,High,3-4
+0,1,1,0,3,1,7637,0,3,2,21,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Low,Middle,Low,5-6
+0,1,3,0,3,3,10096,0,2,3,17,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Middle,High,3-4
+0,1,4,0,4,3,14756,1,2,3,5,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,Very High,Senior,High,3-4
+0,2,2,1,2,2,6499,0,3,3,6,2,Adult (26-44),Male,Travel Frequently,No,Better,Medium,Junior,Medium,5-6
+0,1,2,1,3,1,9724,0,2,3,1,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Medium,Middle,Low,3-4
+0,2,2,1,1,1,2194,0,2,2,3,2,Adult (26-44),Male,Travel Frequently,No,Good,Medium,Entry,Low,3-4
+1,1,4,1,1,3,3388,1,0,2,1,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Very High,Entry,High,No Training
+0,2,1,0,2,3,5473,0,2,2,4,3,Middle-age (45-59),Female,Travel Frequently,No,Good,Low,Junior,High,3-4
+0,1,3,1,1,2,2703,0,3,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Medium,5-6
+0,1,3,1,1,2,2501,0,4,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Medium,7-8
+0,1,2,1,2,2,6220,0,3,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Medium,5-6
+0,1,2,0,1,4,3038,0,3,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,Very High,5-6
+0,1,3,0,2,4,4424,0,2,3,11,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Very High,3-4
+0,1,3,1,2,1,4312,0,2,3,15,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Low,3-4
+0,1,4,1,3,1,13245,1,3,4,0,3,Middle-age (45-59),Male,Travel Rarely,Yes,Best,Very High,Middle,Low,5-6
+0,1,1,1,3,3,13664,0,3,4,5,2,Adult (26-44),Male,Travel Rarely,No,Best,Low,Middle,High,5-6
+0,1,2,1,2,2,5021,1,2,3,4,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Medium,Junior,Medium,3-4
+0,1,4,1,2,4,5126,1,1,2,10,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Very High,Junior,Very High,1-2
+0,1,2,1,1,3,2859,0,3,3,6,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,High,5-6
+0,1,1,1,3,4,10239,0,4,3,1,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Middle,Very High,7-8
+0,3,2,0,2,4,5329,1,3,3,13,2,Adult (26-44),Female,Non-Travel,Yes,Better,Medium,Junior,Very High,5-6
+0,1,1,1,2,2,4325,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Medium,3-4
+0,1,4,1,3,4,7260,0,3,2,6,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Very High,Middle,Very High,5-6
+0,1,3,1,1,1,2322,0,3,3,0,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,Low,5-6
+0,1,4,1,1,4,2075,0,4,3,4,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Entry,Very High,7-8
+0,1,3,1,2,4,4152,0,3,3,11,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Very High,5-6
+1,1,3,1,3,4,9619,0,3,3,9,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Middle,Very High,5-6
+0,2,3,1,4,2,13503,0,3,2,22,2,Adult (26-44),Male,Travel Frequently,No,Good,High,Senior,Medium,5-6
+0,1,3,1,2,4,5441,1,2,1,10,3,Middle-age (45-59),Male,Travel Rarely,Yes,Bad,High,Junior,Very High,3-4
+0,1,3,0,2,2,5209,1,4,2,11,2,Adult (26-44),Female,Travel Rarely,Yes,Good,High,Junior,Medium,7-8
+0,2,3,1,3,1,10673,1,5,2,10,3,Middle-age (45-59),Male,Travel Frequently,Yes,Good,High,Middle,Low,9-10
+0,1,2,1,2,3,5010,0,0,3,11,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,High,No Training
+0,1,1,0,3,3,13549,0,5,1,4,3,Middle-age (45-59),Female,Travel Rarely,No,Bad,Low,Middle,High,9-10
+0,1,1,0,2,3,4999,0,2,2,3,1,Young Adult (18-25),Female,Travel Rarely,No,Good,Low,Junior,High,3-4
+0,3,2,1,2,3,4221,0,3,4,5,2,Adult (26-44),Male,Non-Travel,No,Best,Medium,Junior,High,5-6
+0,1,4,1,4,3,13872,0,1,2,37,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Very High,Senior,High,1-2
+0,3,2,1,2,2,2042,0,3,4,3,2,Adult (26-44),Male,Non-Travel,No,Best,Medium,Junior,Medium,5-6
+1,1,3,1,1,1,2073,1,3,3,3,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Entry,Low,5-6
+0,1,4,1,1,1,2956,0,2,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Low,3-4
+1,2,4,0,1,4,2926,1,5,3,1,1,Young Adult (18-25),Female,Travel Frequently,Yes,Better,Very High,Entry,Very High,9-10
+0,1,1,0,2,3,4809,0,3,3,16,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Junior,High,5-6
+0,3,3,1,2,4,5163,0,2,4,1,2,Adult (26-44),Male,Non-Travel,No,Best,High,Junior,Very High,3-4
+0,3,3,0,5,4,18844,0,3,3,3,3,Middle-age (45-59),Female,Non-Travel,No,Better,High,Executive,Very High,5-6
+0,2,1,0,5,2,18172,1,1,2,8,3,Middle-age (45-59),Female,Travel Frequently,Yes,Good,Low,Executive,Medium,1-2
+1,1,3,1,2,3,5744,1,1,3,6,1,Young Adult (18-25),Male,Travel Rarely,Yes,Better,High,Junior,High,1-2
+0,1,4,1,1,4,2889,0,2,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Very High,Entry,Very High,3-4
+0,1,2,0,1,4,2871,0,5,3,0,1,Young Adult (18-25),Female,Travel Rarely,No,Better,Medium,Entry,Very High,9-10
+0,2,1,0,3,1,7484,0,1,2,13,3,Middle-age (45-59),Female,Travel Frequently,No,Good,Low,Middle,Low,1-2
+1,2,1,1,2,3,6074,1,3,3,9,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Low,Junior,High,5-6
+0,3,4,0,4,4,17328,1,3,3,5,3,Middle-age (45-59),Female,Non-Travel,Yes,Better,Very High,Senior,Very High,5-6
+0,1,2,1,1,3,2774,0,2,3,5,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Medium,Entry,High,3-4
+0,1,3,0,2,2,4505,0,3,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Medium,5-6
+0,1,3,1,3,4,7428,0,3,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Middle,Very High,5-6
+0,1,3,0,3,1,11631,0,6,3,11,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Middle,Low,More than 10
+0,2,2,0,3,4,9738,0,6,3,9,2,Adult (26-44),Female,Travel Frequently,No,Better,Medium,Middle,Very High,More than 10
+0,1,1,0,1,4,2835,0,2,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Entry,Very High,3-4
+0,2,3,1,4,4,16959,1,3,4,25,2,Adult (26-44),Male,Travel Frequently,Yes,Best,High,Senior,Very High,5-6
+0,2,1,1,1,3,2613,0,2,2,10,2,Adult (26-44),Male,Travel Frequently,No,Good,Low,Entry,High,3-4
+0,3,3,1,2,2,6146,0,2,4,7,2,Adult (26-44),Male,Non-Travel,No,Best,High,Junior,Medium,3-4
+1,1,2,0,1,2,4963,1,2,3,5,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,Medium,Entry,Medium,3-4
+0,1,1,1,5,3,19537,0,5,3,20,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Executive,High,9-10
+1,1,2,1,2,3,6172,1,3,2,7,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Medium,Junior,High,5-6
+0,1,3,0,1,2,2368,0,3,2,5,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Entry,Medium,5-6
+1,1,4,0,3,4,10312,0,3,2,40,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Very High,Middle,Very High,5-6
+1,1,4,1,1,3,1675,1,2,2,0,1,Young Adult (18-25),Male,Travel Rarely,Yes,Good,Very High,Entry,High,3-4
+0,1,3,1,1,4,2523,0,2,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,Very High,3-4
+0,1,3,0,2,1,6567,0,2,2,15,3,Middle-age (45-59),Female,Travel Rarely,No,Good,High,Junior,Low,3-4
+0,2,2,0,1,3,4739,0,2,3,3,2,Adult (26-44),Female,Travel Frequently,No,Better,Medium,Entry,High,3-4
+0,2,3,0,3,4,9208,0,3,3,2,3,Middle-age (45-59),Female,Travel Frequently,No,Better,High,Middle,Very High,5-6
+1,1,2,0,2,3,4559,1,2,3,2,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Medium,Junior,High,3-4
+0,1,3,1,3,3,8189,1,2,3,9,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Middle,High,3-4
+0,1,3,0,1,3,2942,0,3,3,8,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,High,5-6
+0,1,2,1,2,2,4941,0,0,3,3,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Medium,No Training
+1,2,1,1,3,4,10650,0,2,3,4,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Low,Middle,Very High,3-4
+0,1,4,0,2,3,5902,0,1,4,15,2,Adult (26-44),Female,Travel Rarely,No,Best,Very High,Junior,High,1-2
+0,1,1,1,2,3,8639,0,3,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Low,Junior,High,5-6
+0,1,3,1,2,4,6347,1,2,1,11,2,Adult (26-44),Male,Travel Rarely,Yes,Bad,High,Junior,Very High,3-4
+1,1,1,0,1,1,4200,0,2,4,5,2,Adult (26-44),Female,Travel Rarely,No,Best,Low,Entry,Low,3-4
+0,1,3,1,1,4,3452,0,2,2,6,3,Middle-age (45-59),Male,Travel Rarely,No,Good,High,Entry,Very High,3-4
+0,1,4,0,2,3,4317,1,2,3,3,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Junior,High,3-4
+0,1,1,0,1,3,2632,0,4,2,5,2,Adult (26-44),Female,Travel Rarely,No,Good,Low,Entry,High,7-8
+0,2,4,1,2,4,4668,0,2,4,8,2,Adult (26-44),Male,Travel Frequently,No,Best,Very High,Junior,Very High,3-4
+0,1,4,0,1,1,3204,0,3,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,Low,5-6
+0,1,2,1,1,4,2720,0,3,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Very High,5-6
+0,2,4,1,4,1,17181,0,2,2,7,2,Adult (26-44),Male,Travel Frequently,No,Good,Very High,Senior,Low,3-4
+0,1,3,1,1,1,2238,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Low,3-4
+0,1,2,0,1,2,1483,0,3,3,1,1,Young Adult (18-25),Female,Travel Rarely,No,Better,Medium,Entry,Medium,5-6
+0,2,2,0,2,2,5605,0,2,3,20,2,Adult (26-44),Female,Travel Frequently,No,Better,Medium,Junior,Medium,3-4
+0,1,3,1,3,2,7295,0,3,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Middle,Medium,5-6
+0,1,2,1,2,3,2306,1,3,1,7,3,Middle-age (45-59),Male,Travel Rarely,Yes,Bad,Medium,Junior,High,5-6
+0,1,2,1,2,2,2348,0,2,1,17,3,Middle-age (45-59),Male,Travel Rarely,No,Bad,Medium,Junior,Medium,3-4
+0,2,2,0,3,4,8998,0,2,3,9,2,Adult (26-44),Female,Travel Frequently,No,Better,Medium,Middle,Very High,3-4
+0,3,4,1,2,3,4319,0,1,3,10,2,Adult (26-44),Male,Non-Travel,No,Better,Very High,Junior,High,1-2
+0,1,2,1,2,3,6132,0,2,3,1,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Medium,Junior,High,3-4
+0,1,2,0,1,2,3346,1,3,2,1,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,Medium,Entry,Medium,5-6
+0,1,3,1,3,4,10855,0,2,2,12,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Middle,Very High,3-4
+0,2,3,0,1,3,2231,0,3,3,4,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Entry,High,5-6
+0,1,3,1,1,4,2323,0,6,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,Very High,More than 10
+0,3,4,1,1,2,2024,0,1,1,2,2,Adult (26-44),Male,Non-Travel,No,Bad,Very High,Entry,Medium,1-2
+0,1,3,1,1,4,2713,0,2,1,5,2,Adult (26-44),Male,Travel Rarely,No,Bad,High,Entry,Very High,3-4
+0,1,3,1,3,4,9439,1,2,1,5,3,Middle-age (45-59),Male,Travel Rarely,Yes,Bad,High,Middle,Very High,3-4
+0,3,3,1,1,3,2566,1,2,2,1,2,Adult (26-44),Male,Non-Travel,Yes,Good,High,Entry,High,3-4
+0,1,3,0,5,2,19926,0,5,3,5,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Executive,Medium,9-10
+0,1,1,1,1,3,2451,0,2,3,9,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,High,3-4
+0,1,2,0,3,4,9419,0,2,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Middle,Very High,3-4
+0,1,1,0,2,4,8686,0,2,4,8,2,Adult (26-44),Female,Travel Rarely,No,Best,Low,Junior,Very High,3-4
+0,1,3,1,1,3,3038,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,High,3-4
+0,1,3,1,1,2,3058,1,3,2,5,2,Adult (26-44),Male,Travel Rarely,Yes,Good,High,Entry,Medium,5-6
+1,2,3,0,1,1,2325,0,5,4,0,1,Young Adult (18-25),Female,Travel Frequently,No,Best,High,Entry,Low,9-10
+0,2,4,1,1,2,2088,0,3,2,8,2,Adult (26-44),Male,Travel Frequently,No,Good,Very High,Entry,Medium,5-6
+0,3,3,1,2,1,3072,0,4,3,12,2,Adult (26-44),Male,Non-Travel,No,Better,High,Junior,Low,7-8
+0,1,3,0,2,1,5006,1,3,4,5,3,Middle-age (45-59),Female,Travel Rarely,Yes,Best,High,Junior,Low,5-6
+0,1,3,0,1,1,4257,1,3,3,2,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Entry,Low,5-6
+0,1,3,1,1,4,2500,0,2,4,3,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Entry,Very High,3-4
+1,1,2,1,1,4,1102,0,3,2,1,1,Young Adult (18-25),Male,Travel Rarely,No,Good,Medium,Entry,Very High,5-6
+0,1,2,0,3,1,10453,0,2,3,24,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Medium,Middle,Low,3-4
+0,1,3,0,1,4,2288,0,3,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Very High,5-6
+0,1,3,0,1,4,3929,1,0,3,4,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Entry,Very High,No Training
+0,1,4,0,1,2,2311,0,3,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,Medium,5-6
+1,1,2,0,1,2,3140,1,5,2,4,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Medium,Entry,Medium,9-10
+0,1,3,1,1,3,3690,0,2,2,3,3,Middle-age (45-59),Male,Travel Rarely,No,Good,High,Entry,High,3-4
+0,1,4,0,2,1,4450,0,3,3,4,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Junior,Low,5-6
+0,1,4,0,1,2,2756,0,5,3,8,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,Medium,9-10
+0,1,4,0,5,3,19033,0,2,3,20,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Executive,High,3-4
+0,1,3,1,5,2,18722,0,3,3,24,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Executive,Medium,5-6
+0,2,4,1,2,3,9547,0,2,2,10,2,Adult (26-44),Male,Travel Frequently,No,Good,Very High,Junior,High,3-4
+0,1,4,0,4,2,13734,0,6,3,7,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Senior,Medium,More than 10
+0,1,3,1,5,3,19999,0,5,3,33,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Executive,High,9-10
+0,1,4,0,1,2,2279,0,2,2,7,2,Adult (26-44),Female,Travel Rarely,No,Good,Very High,Entry,Medium,3-4
+1,1,2,1,2,3,5916,1,1,3,1,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Junior,High,1-2
+0,3,4,1,1,4,2089,0,3,4,5,2,Adult (26-44),Male,Non-Travel,No,Best,Very High,Entry,Very High,5-6
+0,3,1,1,4,4,16792,0,1,3,20,3,Middle-age (45-59),Male,Non-Travel,No,Better,Low,Senior,Very High,1-2
+0,1,2,1,1,1,3564,1,3,2,8,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Medium,Entry,Low,5-6
+0,2,2,0,2,2,4425,0,5,3,6,2,Adult (26-44),Female,Travel Frequently,No,Better,Medium,Junior,Medium,9-10
+0,3,3,0,2,3,5265,0,5,3,5,2,Adult (26-44),Female,Non-Travel,No,Better,High,Junior,High,9-10
+0,1,4,1,2,3,6553,0,3,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,High,5-6
+0,1,4,1,2,4,6261,0,3,1,7,2,Adult (26-44),Male,Travel Rarely,No,Bad,Very High,Junior,Very High,5-6
+0,2,3,1,2,1,4298,0,1,3,2,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Junior,Low,1-2
+0,3,4,1,2,4,6804,1,0,3,7,3,Middle-age (45-59),Male,Non-Travel,Yes,Better,Very High,Junior,Very High,No Training
+0,2,4,1,1,3,3815,1,4,4,5,2,Adult (26-44),Male,Travel Frequently,Yes,Best,Very High,Entry,High,7-8
+0,1,3,1,2,4,2741,1,2,4,7,2,Adult (26-44),Male,Travel Rarely,Yes,Best,High,Junior,Very High,3-4
+1,1,2,1,2,1,6673,1,2,3,1,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Junior,Low,3-4
+1,1,2,0,3,4,7639,0,3,2,10,2,Adult (26-44),Female,Travel Rarely,No,Good,Medium,Middle,Very High,5-6
+0,1,4,1,1,2,2328,1,2,2,4,1,Young Adult (18-25),Male,Travel Rarely,Yes,Good,Very High,Entry,Medium,3-4
+0,2,2,0,1,4,2153,0,2,3,8,2,Adult (26-44),Female,Travel Frequently,No,Better,Medium,Entry,Very High,3-4
+0,3,4,1,2,4,4876,0,5,1,3,2,Adult (26-44),Male,Non-Travel,No,Bad,Very High,Junior,Very High,9-10
+0,1,4,1,3,1,9396,0,3,3,4,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Middle,Low,5-6
+1,1,4,1,3,4,10400,0,2,2,14,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Middle,Very High,3-4
+0,3,3,1,3,3,8474,0,2,3,11,2,Adult (26-44),Male,Non-Travel,No,Better,High,Middle,High,3-4
+0,2,4,0,2,3,9981,0,2,3,7,2,Adult (26-44),Female,Travel Frequently,No,Better,Very High,Junior,High,3-4
+0,1,2,1,3,2,12490,0,5,1,10,3,Middle-age (45-59),Male,Travel Rarely,No,Bad,Medium,Middle,Medium,9-10
+1,1,4,0,1,1,2657,1,5,3,5,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Entry,Low,9-10
+0,1,4,0,3,4,13591,1,3,3,1,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Middle,Very High,5-6
+1,2,3,0,2,1,6696,0,5,2,6,2,Adult (26-44),Female,Travel Frequently,No,Good,High,Junior,Low,9-10
+1,1,3,1,1,3,2058,0,1,2,6,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Entry,High,1-2
+0,3,4,0,3,4,8865,0,2,3,19,3,Middle-age (45-59),Female,Non-Travel,No,Better,Very High,Middle,Very High,3-4
+0,1,4,0,2,1,5940,0,4,3,6,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Junior,Low,7-8
+0,1,4,1,2,2,5914,0,3,4,13,2,Adult (26-44),Male,Travel Rarely,No,Best,Very High,Junior,Medium,5-6
+0,1,3,0,1,2,2622,0,3,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Medium,5-6
+0,2,2,1,3,4,12185,1,1,3,10,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Medium,Middle,Very High,1-2
+0,1,1,1,3,3,10609,0,6,2,16,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Middle,High,More than 10
+0,3,3,1,2,3,4345,0,2,3,5,2,Adult (26-44),Male,Non-Travel,No,Better,High,Junior,High,3-4
+0,1,3,1,1,4,2177,0,6,3,1,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Entry,Very High,More than 10
+0,2,1,1,1,4,2793,0,2,3,9,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Entry,Very High,3-4
+0,2,2,0,3,4,7918,0,5,3,11,2,Adult (26-44),Female,Travel Frequently,No,Better,Medium,Middle,Very High,9-10
+0,2,3,0,3,3,8789,0,3,4,10,2,Adult (26-44),Female,Travel Frequently,No,Best,High,Middle,High,5-6
+1,1,3,1,1,4,2389,1,3,2,4,2,Adult (26-44),Male,Travel Rarely,Yes,Good,High,Entry,Very High,5-6
+0,1,3,0,1,4,3212,0,3,2,2,3,Middle-age (45-59),Female,Travel Rarely,No,Good,High,Entry,Very High,5-6
+0,1,3,1,5,4,19232,0,3,3,22,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Executive,Very High,5-6
+0,1,2,1,1,3,2267,0,2,2,2,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Medium,Entry,High,3-4
+0,1,4,0,5,4,19517,0,3,2,7,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Very High,Executive,Very High,5-6
+1,1,3,1,1,4,2436,1,2,1,5,2,Adult (26-44),Male,Travel Rarely,Yes,Bad,High,Entry,Very High,3-4
+0,1,4,0,4,4,16064,1,3,3,17,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Senior,Very High,5-6
+1,1,1,0,1,1,2707,0,3,4,9,2,Adult (26-44),Female,Travel Rarely,No,Best,Low,Entry,Low,5-6
+0,3,1,1,5,3,19068,1,2,4,33,3,Middle-age (45-59),Male,Non-Travel,Yes,Best,Low,Executive,High,3-4
+0,1,3,0,1,2,3931,0,5,3,4,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Medium,9-10
+1,1,4,1,1,3,3730,1,2,1,3,2,Adult (26-44),Male,Travel Rarely,Yes,Bad,Very High,Entry,High,3-4
+0,1,3,0,1,3,2232,0,1,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,High,1-2
+0,3,3,1,2,4,4465,0,2,3,3,2,Adult (26-44),Male,Non-Travel,No,Better,High,Junior,Very High,3-4
+0,1,3,1,2,1,3072,0,2,2,1,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Junior,Low,3-4
+0,1,1,1,2,4,3319,0,3,3,9,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Very High,5-6
+0,1,3,1,5,4,19202,0,2,3,24,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Executive,Very High,3-4
+0,2,2,1,3,3,13675,0,3,3,2,2,Adult (26-44),Male,Travel Frequently,No,Better,Medium,Middle,High,5-6
+0,1,3,0,1,4,2911,0,2,2,2,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Entry,Very High,3-4
+0,1,4,1,2,1,5957,0,3,3,11,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Low,5-6
+0,1,3,0,1,1,3920,0,2,2,3,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Entry,Low,3-4
+0,2,1,1,2,3,6434,0,1,3,3,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Low,Junior,High,1-2
+1,2,1,1,3,3,10048,0,5,3,1,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Middle,High,9-10
+0,2,3,0,3,3,10938,0,1,3,19,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Middle,High,1-2
+0,1,3,1,1,4,2340,0,1,3,6,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Very High,1-2
+0,1,4,0,2,1,6545,1,1,3,3,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Junior,Low,1-2
+0,1,4,1,2,4,6931,0,2,3,3,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,3-4
+0,1,1,0,2,3,4898,0,3,3,4,1,Young Adult (18-25),Female,Travel Rarely,No,Better,Low,Junior,High,5-6
+0,1,4,0,1,1,2593,1,4,3,9,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Entry,Low,7-8
+0,1,1,1,5,3,19436,0,5,3,21,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Executive,High,9-10
+0,1,3,1,1,4,2723,0,0,2,1,3,Middle-age (45-59),Male,Travel Rarely,No,Good,High,Entry,Very High,No Training
+1,2,3,1,1,2,3479,0,2,4,5,2,Adult (26-44),Male,Travel Frequently,No,Best,High,Entry,Medium,3-4
+0,2,2,1,1,2,2794,0,3,1,5,2,Adult (26-44),Male,Travel Frequently,No,Bad,Medium,Entry,Medium,5-6
+0,3,4,1,2,4,5249,0,0,3,8,2,Adult (26-44),Male,Non-Travel,No,Better,Very High,Junior,Very High,No Training
+0,1,4,1,2,1,2176,0,5,3,6,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Low,9-10
+0,1,3,0,4,2,16872,1,2,2,7,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,High,Senior,Medium,3-4
+1,1,1,1,1,3,3485,0,5,1,0,2,Adult (26-44),Male,Travel Rarely,No,Bad,Low,Entry,High,9-10
+0,1,1,1,2,2,6644,0,2,3,0,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Medium,3-4
+0,1,2,1,2,4,5582,0,2,3,9,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Very High,3-4
+0,3,2,1,2,1,4000,0,2,3,6,1,Young Adult (18-25),Male,Non-Travel,No,Better,Medium,Junior,Low,3-4
+0,1,3,1,4,4,13496,1,2,3,20,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,High,Senior,Very High,3-4
+0,1,4,1,1,4,3210,0,4,3,15,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Very High,7-8
+0,1,4,1,5,1,19045,1,2,3,36,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Executive,Low,3-4
+1,3,1,1,3,2,11849,1,2,2,10,3,Middle-age (45-59),Male,Non-Travel,Yes,Good,Low,Middle,Medium,3-4
+0,1,4,1,1,4,2070,0,3,2,5,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Entry,Very High,5-6
+0,1,3,1,2,4,6502,0,5,4,5,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Junior,Very High,9-10
+0,1,4,1,1,3,3230,0,4,4,3,1,Young Adult (18-25),Male,Travel Rarely,No,Best,Very High,Entry,High,7-8
+0,3,1,0,3,4,13603,1,2,3,5,2,Adult (26-44),Female,Non-Travel,Yes,Better,Low,Middle,Very High,3-4
+0,1,2,0,3,2,11996,0,6,2,7,2,Adult (26-44),Female,Travel Rarely,No,Good,Medium,Middle,Medium,More than 10
+0,1,1,0,2,1,5605,1,3,3,8,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Low,Junior,Low,5-6
+0,2,3,0,2,2,6397,0,6,1,6,2,Adult (26-44),Female,Travel Frequently,No,Bad,High,Junior,Medium,More than 10
+0,1,1,1,5,2,19144,0,4,2,10,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Low,Executive,Medium,7-8
+0,1,3,1,4,3,17584,1,5,2,5,3,Middle-age (45-59),Male,Travel Rarely,Yes,Good,High,Senior,High,9-10
+0,1,2,1,2,3,4907,0,3,3,20,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,High,5-6
+0,2,2,1,2,4,4554,0,3,2,10,2,Adult (26-44),Male,Travel Frequently,No,Good,Medium,Junior,Very High,5-6
+0,1,2,1,2,4,5415,1,4,3,10,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Medium,Junior,Very High,7-8
+0,2,1,1,2,1,4741,1,3,3,5,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Low,Junior,Low,5-6
+0,1,4,0,1,4,2115,0,3,3,17,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,Very High,5-6
+1,2,4,1,1,3,3161,1,0,1,1,2,Adult (26-44),Male,Travel Frequently,Yes,Bad,Very High,Entry,High,No Training
+0,1,4,1,2,4,5745,0,2,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,3-4
+1,1,1,1,1,2,2373,1,2,3,3,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Low,Entry,Medium,3-4
+0,1,4,0,1,4,3310,0,3,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,Very High,5-6
+0,2,3,0,5,1,18665,1,4,3,3,3,Middle-age (45-59),Female,Travel Frequently,Yes,Better,High,Executive,Low,7-8
+0,1,3,1,2,2,4485,0,2,3,8,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Medium,3-4
+0,2,4,0,1,2,2789,0,5,2,2,2,Adult (26-44),Female,Travel Frequently,No,Good,Very High,Entry,Medium,9-10
+1,1,4,1,2,4,5828,1,0,3,8,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Junior,Very High,No Training
+0,2,2,1,1,4,2326,1,3,2,4,2,Adult (26-44),Male,Travel Frequently,Yes,Good,Medium,Entry,Very High,5-6
+0,2,3,0,4,2,13525,0,2,4,20,2,Adult (26-44),Female,Travel Frequently,No,Best,High,Senior,Medium,3-4
+1,1,3,1,1,3,1420,0,2,3,0,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,High,3-4
+0,1,3,1,3,2,8020,0,3,2,11,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Middle,Medium,5-6
+0,2,3,1,1,4,3688,0,2,3,1,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Entry,Very High,3-4
+0,1,4,1,2,2,5482,0,3,3,4,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Junior,Medium,5-6
+0,1,4,1,4,2,16015,0,2,3,22,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Senior,Medium,3-4
+0,1,4,0,1,3,1200,0,2,3,0,1,Young Adult (18-25),Female,Travel Rarely,No,Better,Very High,Entry,High,3-4
+0,1,2,1,2,1,5661,0,2,3,8,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Low,3-4
+0,1,2,1,2,4,6929,0,3,2,8,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Junior,Very High,5-6
+0,1,3,1,3,4,9613,0,5,2,18,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Middle,Very High,9-10
+0,3,2,0,2,2,5674,0,3,3,9,2,Adult (26-44),Female,Non-Travel,No,Better,Medium,Junior,Medium,5-6
+0,1,4,1,2,3,5484,0,3,2,13,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Junior,High,5-6
+0,1,1,0,3,2,12061,0,2,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Middle,Medium,3-4
+0,3,4,1,2,3,5660,1,2,3,5,3,Middle-age (45-59),Male,Non-Travel,Yes,Better,Very High,Junior,High,3-4
+0,1,3,1,1,4,4821,1,4,3,5,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Entry,Very High,7-8
+0,1,1,1,2,1,6410,0,1,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Low,1-2
+0,2,1,1,3,1,5210,0,2,3,24,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Low,Middle,Low,3-4
+0,1,3,1,1,4,2695,1,2,1,2,2,Adult (26-44),Male,Travel Rarely,Yes,Bad,High,Entry,Very High,3-4
+0,2,4,0,3,2,11878,0,2,3,10,2,Adult (26-44),Female,Travel Frequently,No,Better,Very High,Middle,Medium,3-4
+0,1,3,1,4,1,17068,1,3,3,21,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Senior,Low,5-6
+0,2,3,0,1,4,2455,0,5,3,8,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Entry,Very High,9-10
+0,1,3,0,4,3,13964,1,2,3,7,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Senior,High,3-4
+1,1,3,1,2,2,4941,0,3,2,8,3,Middle-age (45-59),Male,Travel Rarely,No,Good,High,Junior,Medium,5-6
+0,1,3,0,1,2,2478,1,2,2,4,2,Adult (26-44),Female,Travel Rarely,Yes,Good,High,Entry,Medium,3-4
+0,1,3,0,2,2,5228,1,2,3,13,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Junior,Medium,3-4
+0,1,4,1,2,3,4478,1,3,3,5,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Junior,High,5-6
+0,1,4,1,2,4,7547,0,3,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,5-6
+0,1,1,0,2,4,5055,0,0,2,7,2,Adult (26-44),Female,Travel Rarely,No,Good,Low,Junior,Very High,No Training
+1,1,1,1,1,4,3464,1,4,2,3,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Low,Entry,Very High,7-8
+0,1,4,0,2,4,5775,0,2,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,Very High,3-4
+0,2,3,0,3,3,8943,0,2,3,10,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Middle,High,3-4
+0,2,3,1,5,4,19272,0,2,3,21,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Executive,Very High,3-4
+1,1,4,0,2,3,5238,1,3,2,1,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Very High,Junior,High,5-6
+0,2,2,1,2,4,4682,0,6,2,7,2,Adult (26-44),Male,Travel Frequently,No,Good,Medium,Junior,Very High,More than 10
+0,1,4,1,5,3,18300,0,2,3,3,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Executive,High,3-4
+0,2,3,0,2,3,5257,0,3,4,9,2,Adult (26-44),Female,Travel Frequently,No,Best,High,Junior,High,5-6
+0,3,3,1,2,2,6349,1,0,3,5,2,Adult (26-44),Male,Non-Travel,Yes,Better,High,Junior,Medium,No Training
+0,2,4,0,2,3,4869,0,4,2,4,3,Middle-age (45-59),Female,Travel Frequently,No,Good,Very High,Junior,High,7-8
+0,1,3,0,3,1,9985,0,1,2,1,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Middle,Low,1-2
+0,1,4,1,2,4,3697,0,3,3,10,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Junior,Very High,5-6
+0,1,2,1,2,4,7457,1,2,2,4,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Medium,Junior,Very High,3-4
+1,1,2,1,1,1,2119,1,4,2,7,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Medium,Entry,Low,7-8
+0,1,2,1,1,4,3983,0,2,3,3,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Very High,3-4
+0,1,4,0,2,3,6118,0,2,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,High,3-4
+0,1,2,0,2,2,6214,0,3,3,8,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,Medium,5-6
+0,1,4,1,2,4,6347,0,2,2,6,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Junior,Very High,3-4
+0,1,3,1,3,4,11510,1,3,3,11,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Middle,Very High,5-6
+0,1,3,0,3,4,7143,1,2,2,11,2,Adult (26-44),Female,Travel Rarely,Yes,Good,High,Middle,Very High,3-4
+0,1,4,0,2,2,8268,1,2,3,7,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Junior,Medium,3-4
+0,1,3,1,3,2,8095,0,5,3,16,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Middle,Medium,9-10
+0,1,3,1,1,4,2904,0,2,2,4,1,Young Adult (18-25),Male,Travel Rarely,No,Good,High,Entry,Very High,3-4
+0,1,4,1,2,2,6032,1,3,3,5,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Junior,Medium,5-6
+0,2,2,1,2,3,2976,0,3,3,0,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Medium,Junior,High,5-6
+0,1,1,0,4,4,15992,0,2,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Senior,Very High,3-4
+0,3,4,1,2,3,4649,0,3,2,4,2,Adult (26-44),Male,Non-Travel,No,Good,Very High,Junior,High,5-6
+0,1,3,1,1,3,2696,1,5,3,3,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Entry,High,9-10
+0,1,3,0,1,2,2370,0,4,3,8,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Medium,7-8
+0,1,1,0,3,3,12504,0,3,1,0,3,Middle-age (45-59),Female,Travel Rarely,No,Bad,Low,Middle,High,5-6
+0,1,3,1,2,1,5974,1,2,3,7,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Junior,Low,3-4
+0,3,4,0,2,3,4736,1,2,4,2,2,Adult (26-44),Female,Non-Travel,Yes,Best,Very High,Junior,High,3-4
+0,1,3,1,2,3,5296,0,3,3,8,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,High,5-6
+0,1,1,1,2,4,6781,0,6,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Very High,More than 10
+1,2,1,0,1,2,2174,1,3,3,3,1,Young Adult (18-25),Female,Travel Frequently,Yes,Better,Low,Entry,Medium,5-6
+0,3,4,0,2,4,6653,0,6,3,1,2,Adult (26-44),Female,Non-Travel,No,Better,Very High,Junior,Very High,More than 10
+0,2,1,1,3,4,9699,0,2,3,13,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Middle,Very High,3-4
+0,1,4,1,2,3,6755,0,2,3,3,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Junior,High,3-4
+0,1,4,0,1,3,2213,1,3,3,7,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Entry,High,5-6
+0,3,1,1,1,4,2610,0,3,2,3,1,Young Adult (18-25),Male,Non-Travel,No,Good,Low,Entry,Very High,5-6
+1,1,4,0,1,3,2851,1,2,3,1,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Entry,High,3-4
+0,1,3,0,1,1,3452,0,3,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Low,5-6
+0,3,3,0,2,3,5258,0,2,4,1,3,Middle-age (45-59),Female,Non-Travel,No,Best,High,Junior,High,3-4
+1,2,1,1,2,2,9355,0,5,3,8,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Junior,Medium,9-10
+0,1,4,1,3,4,10496,0,2,3,4,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Middle,Very High,3-4
+1,1,3,1,2,3,6380,1,6,3,6,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Junior,High,More than 10
+0,1,3,1,1,2,2657,1,5,3,2,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Entry,Medium,9-10
+1,1,3,0,1,2,2716,0,0,3,1,1,Young Adult (18-25),Female,Travel Rarely,No,Better,High,Entry,Medium,No Training
+0,1,4,1,1,4,2201,0,4,3,3,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Very High,7-8
+0,1,3,1,2,2,6540,0,5,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Medium,9-10
+0,1,4,1,1,2,3816,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Medium,3-4
+0,1,2,1,2,4,5253,0,1,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Very High,1-2
+0,1,2,1,3,3,10965,0,2,3,5,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Medium,Middle,High,3-4
+0,1,3,0,2,4,4936,0,2,2,7,3,Middle-age (45-59),Female,Travel Rarely,No,Good,High,Junior,Very High,3-4
+0,1,4,0,1,3,2543,0,3,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,High,5-6
+1,3,1,1,2,4,5304,1,3,2,5,2,Adult (26-44),Male,Non-Travel,Yes,Good,Low,Junior,Very High,5-6
+0,1,3,0,4,4,16659,1,2,3,5,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Senior,Very High,3-4
+0,1,4,0,2,3,4260,1,2,4,5,1,Young Adult (18-25),Female,Travel Rarely,Yes,Best,Very High,Junior,High,3-4
+0,1,3,1,1,2,2476,0,3,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Medium,5-6
+1,2,3,1,1,1,3102,0,2,3,6,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Entry,Low,3-4
+0,1,1,0,1,2,2244,0,1,3,2,1,Young Adult (18-25),Female,Travel Rarely,No,Better,Low,Entry,Medium,1-2
+0,1,2,1,3,3,7596,0,2,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Middle,High,3-4
+1,2,3,1,1,4,2285,1,4,3,1,2,Adult (26-44),Male,Travel Frequently,Yes,Better,High,Entry,Very High,7-8
+0,1,4,0,1,1,3034,0,2,2,18,2,Adult (26-44),Female,Travel Rarely,No,Good,Very High,Entry,Low,3-4
+0,1,4,0,2,2,5715,0,5,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,Medium,9-10
+0,1,2,0,1,1,2576,0,5,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,Low,9-10
+0,1,3,1,2,2,4197,1,2,2,1,2,Adult (26-44),Male,Travel Rarely,Yes,Good,High,Junior,Medium,3-4
+0,1,1,1,4,2,14336,0,3,3,25,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Senior,Medium,5-6
+0,1,2,0,2,3,3448,0,3,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,High,5-6
+0,1,1,1,5,1,19406,0,4,2,4,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Low,Executive,Low,7-8
+0,3,3,0,2,3,6538,0,3,3,3,2,Adult (26-44),Female,Non-Travel,No,Better,High,Junior,High,5-6
+0,1,2,0,2,1,4306,0,5,1,13,2,Adult (26-44),Female,Travel Rarely,No,Bad,Medium,Junior,Low,9-10
+0,2,4,1,1,4,2258,0,1,3,3,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Entry,Very High,1-2
+0,1,3,0,2,3,4522,1,3,3,5,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Junior,High,5-6
+0,1,2,0,2,4,4487,1,3,3,5,1,Young Adult (18-25),Female,Travel Rarely,Yes,Better,Medium,Junior,Very High,5-6
+0,3,2,0,2,3,4449,1,2,3,13,2,Adult (26-44),Female,Non-Travel,Yes,Better,Medium,Junior,High,3-4
+0,1,4,1,1,1,2218,0,3,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Low,5-6
+0,2,2,1,5,3,19197,1,3,3,21,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Medium,Executive,High,5-6
+0,2,3,0,4,1,13212,0,0,2,7,3,Middle-age (45-59),Female,Travel Frequently,No,Good,High,Senior,Low,No Training
+0,1,2,0,2,3,6577,0,6,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,High,More than 10
+0,1,2,1,3,1,8392,0,2,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Middle,Low,3-4
+0,1,3,1,2,1,4558,0,2,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Low,3-4
+1,1,1,1,1,1,4031,0,5,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Low,Entry,Low,9-10
+0,1,4,1,3,3,7969,1,4,3,5,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Middle,High,7-8
+0,1,1,1,1,4,2654,0,3,2,2,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Low,Entry,Very High,5-6
+0,1,4,0,4,4,16555,0,2,1,5,3,Middle-age (45-59),Female,Travel Rarely,No,Bad,Very High,Senior,Very High,3-4
+0,2,1,0,2,3,4556,0,3,3,5,2,Adult (26-44),Female,Travel Frequently,No,Better,Low,Junior,High,5-6
+0,1,3,0,2,4,6091,0,2,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Very High,3-4
+0,1,1,0,5,1,19566,0,5,1,29,4,Old age (60+),Female,Travel Rarely,No,Bad,Low,Executive,Low,9-10
+0,1,3,0,2,3,4810,0,5,2,10,3,Middle-age (45-59),Female,Travel Rarely,No,Good,High,Junior,High,9-10
+0,2,4,0,2,4,4523,0,4,4,6,2,Adult (26-44),Female,Travel Frequently,No,Best,Very High,Junior,Very High,7-8
+1,1,1,0,1,2,3202,1,4,3,5,1,Young Adult (18-25),Female,Travel Rarely,Yes,Better,Low,Entry,Medium,7-8
+1,2,4,0,1,3,2351,0,3,2,2,2,Adult (26-44),Female,Travel Frequently,No,Good,Very High,Entry,High,5-6
+0,2,4,1,1,4,1702,1,3,3,1,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Very High,Entry,Very High,5-6
+0,1,3,0,5,3,18041,0,2,3,20,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Executive,High,3-4
+0,1,1,0,1,4,2886,0,3,1,3,2,Adult (26-44),Female,Travel Rarely,No,Bad,Low,Entry,Very High,5-6
+0,3,3,1,1,4,2097,0,3,1,5,2,Adult (26-44),Male,Non-Travel,No,Bad,High,Entry,Very High,5-6
+0,1,2,1,3,3,11935,0,2,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Middle,High,3-4
+1,1,3,0,1,2,2546,0,2,4,2,2,Adult (26-44),Female,Travel Rarely,No,Best,High,Entry,Medium,3-4
+1,1,1,1,1,4,2564,0,3,4,1,1,Young Adult (18-25),Male,Travel Rarely,No,Best,Low,Entry,Very High,5-6
+0,3,3,0,3,1,8412,0,3,3,9,2,Adult (26-44),Female,Non-Travel,No,Better,High,Middle,Low,5-6
+0,1,1,1,4,4,14118,0,3,2,1,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Low,Senior,Very High,5-6
+0,1,2,1,4,3,17046,0,2,3,27,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Medium,Senior,High,3-4
+0,3,3,0,1,4,2564,0,2,2,11,2,Adult (26-44),Female,Non-Travel,No,Good,High,Entry,Very High,3-4
+0,2,3,0,3,1,10266,0,5,4,18,4,Old age (60+),Female,Travel Frequently,No,Best,High,Middle,Low,9-10
+0,1,1,0,2,4,5070,0,2,3,5,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Low,Junior,Very High,3-4
+0,1,1,1,4,3,17861,0,2,1,3,3,Middle-age (45-59),Male,Travel Rarely,No,Bad,Low,Senior,High,3-4
+0,1,4,1,1,3,4230,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,High,3-4
+0,1,3,0,2,3,3780,0,3,3,1,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Junior,High,5-6
+0,1,4,1,1,3,2768,0,3,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,High,5-6
+0,1,3,0,3,4,9071,1,3,3,3,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Middle,Very High,5-6
+0,1,3,1,3,2,10648,0,6,4,13,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Middle,Medium,More than 10
+1,1,2,1,3,3,13610,1,2,4,7,2,Adult (26-44),Male,Travel Rarely,Yes,Best,Medium,Middle,High,3-4
+1,1,1,1,1,4,3408,0,2,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,Very High,3-4
+0,1,4,1,1,2,2983,0,3,3,3,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Medium,5-6
+0,1,4,1,3,3,7632,1,2,3,8,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Middle,High,3-4
+1,2,1,1,3,3,9824,0,2,3,1,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Middle,High,3-4
+1,2,2,0,3,1,9950,1,2,3,3,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Medium,Middle,Low,3-4
+0,2,2,1,1,3,2093,0,4,3,2,2,Adult (26-44),Male,Travel Frequently,No,Better,Medium,Entry,High,7-8
+0,3,2,1,3,4,9980,0,3,2,10,2,Adult (26-44),Male,Non-Travel,No,Good,Medium,Middle,Very High,5-6
+1,2,3,1,1,3,3894,0,3,3,2,1,Young Adult (18-25),Male,Travel Frequently,No,Better,High,Entry,High,5-6
+0,1,2,0,2,4,4051,0,2,3,9,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Medium,Junior,Very High,3-4
+0,1,1,0,4,2,16835,0,2,3,10,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Low,Senior,Medium,3-4
+0,3,4,1,2,4,6230,0,3,3,14,2,Adult (26-44),Male,Non-Travel,No,Better,Very High,Junior,Very High,5-6
+0,1,2,1,2,3,4717,0,2,3,11,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,High,3-4
+0,1,2,0,4,3,13237,0,3,3,20,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Senior,High,5-6
+0,2,3,0,1,3,3755,0,3,3,8,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Entry,High,5-6
+0,1,2,1,2,4,6582,1,2,4,6,2,Adult (26-44),Male,Travel Rarely,Yes,Best,Medium,Junior,Very High,3-4
+0,1,4,1,3,1,7406,1,5,2,10,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Very High,Middle,Low,9-10
+0,1,4,1,2,2,4805,0,3,4,8,3,Middle-age (45-59),Male,Travel Rarely,No,Best,Very High,Junior,Medium,5-6
+1,2,2,0,1,3,2741,1,2,2,7,2,Adult (26-44),Female,Travel Frequently,Yes,Good,Medium,Entry,High,3-4
+0,1,4,1,2,4,4262,0,2,4,3,2,Adult (26-44),Male,Travel Rarely,No,Best,Very High,Junior,Very High,3-4
+0,1,1,0,4,3,16184,0,2,3,6,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Senior,High,3-4
+0,1,3,1,3,4,11557,0,3,2,5,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Middle,Very High,5-6
+1,2,2,1,1,2,1878,1,3,3,0,1,Young Adult (18-25),Male,Travel Frequently,Yes,Better,Medium,Entry,Medium,5-6
+0,3,3,1,3,1,10932,0,2,3,1,2,Adult (26-44),Male,Non-Travel,No,Better,High,Middle,Low,3-4
+0,3,1,0,2,3,6811,1,3,3,8,2,Adult (26-44),Female,Non-Travel,Yes,Better,Low,Junior,High,5-6
+0,1,1,1,2,3,4306,0,5,3,0,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,High,9-10
+0,1,1,0,2,3,4859,0,3,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Junior,High,5-6
+0,1,4,1,2,4,5337,0,3,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,5-6
+1,1,3,1,1,4,2340,1,3,1,1,2,Adult (26-44),Male,Travel Rarely,Yes,Bad,High,Entry,Very High,5-6
+0,1,2,0,3,4,7491,0,3,4,6,2,Adult (26-44),Female,Travel Rarely,No,Best,Medium,Middle,Very High,5-6
+0,2,1,0,3,3,10527,0,3,2,2,3,Middle-age (45-59),Female,Travel Frequently,No,Good,Low,Middle,High,5-6
+0,1,2,0,4,1,16595,0,2,3,18,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Senior,Low,3-4
+0,3,1,1,3,2,8834,0,6,3,9,2,Adult (26-44),Male,Non-Travel,No,Better,Low,Middle,Medium,More than 10
+0,1,4,1,2,1,5577,1,3,3,10,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Junior,Low,5-6
+1,3,4,1,2,3,4707,0,2,3,4,2,Adult (26-44),Male,Non-Travel,No,Better,Very High,Junior,High,3-4
+0,2,4,1,1,4,2400,0,3,3,2,1,Young Adult (18-25),Male,Travel Frequently,No,Better,Very High,Entry,Very High,5-6
+0,1,3,0,2,3,9824,0,4,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,High,7-8
+0,1,2,0,2,2,6447,0,2,2,6,2,Adult (26-44),Female,Travel Rarely,No,Good,Medium,Junior,Medium,3-4
+0,1,4,1,5,3,19502,1,5,3,31,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Executive,High,9-10
+0,1,2,1,1,4,2725,1,3,3,6,1,Young Adult (18-25),Male,Travel Rarely,Yes,Better,Medium,Entry,Very High,5-6
+0,1,1,1,2,2,6272,0,5,4,5,2,Adult (26-44),Male,Travel Rarely,No,Best,Low,Junior,Medium,9-10
+0,1,4,1,1,2,2127,0,2,3,1,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Very High,Entry,Medium,3-4
+0,2,1,1,5,2,18200,0,2,3,32,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Low,Executive,Medium,3-4
+0,1,2,1,1,3,2096,0,1,3,7,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Medium,Entry,High,1-2
+1,2,1,0,1,3,2886,1,4,3,6,1,Young Adult (18-25),Female,Travel Frequently,Yes,Better,Low,Entry,High,7-8
+1,2,2,1,1,1,2033,0,2,4,1,2,Adult (26-44),Male,Travel Frequently,No,Best,Medium,Entry,Low,3-4
+0,1,2,1,1,4,3622,1,3,3,6,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Entry,Very High,5-6
+1,1,2,1,2,1,4233,0,2,1,3,2,Adult (26-44),Male,Travel Rarely,No,Bad,Medium,Junior,Low,3-4
+0,1,1,1,2,4,3681,0,3,3,3,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Very High,5-6
+0,1,1,1,2,4,5460,0,4,4,7,2,Adult (26-44),Male,Travel Rarely,No,Best,Low,Junior,Very High,7-8
+0,1,1,0,1,3,2187,0,5,2,5,2,Adult (26-44),Female,Travel Rarely,No,Good,Low,Entry,High,9-10
+0,1,4,1,2,3,9602,1,3,2,3,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Very High,Junior,High,5-6
+0,1,4,0,1,2,2836,0,0,4,1,1,Young Adult (18-25),Female,Travel Rarely,No,Best,Very High,Entry,Medium,No Training
+0,1,3,0,2,4,4089,0,4,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Very High,7-8
+0,1,2,1,4,4,16627,1,3,2,1,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Medium,Senior,Very High,5-6
+0,1,3,0,1,1,2619,0,3,2,0,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Entry,Low,5-6
+0,2,4,1,2,3,5679,1,3,3,8,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Very High,Junior,High,5-6
+0,1,4,0,4,1,15402,0,3,1,3,3,Middle-age (45-59),Female,Travel Rarely,No,Bad,Very High,Senior,Low,5-6
+0,1,1,0,2,3,5985,0,1,4,2,2,Adult (26-44),Female,Travel Rarely,No,Best,Low,Junior,High,1-2
+0,1,3,0,1,3,2579,1,3,3,8,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Entry,High,5-6
+1,1,3,1,1,1,3041,0,3,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Low,5-6
+0,1,3,1,1,3,3447,0,2,3,3,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,High,3-4
+0,1,4,1,5,4,19513,1,2,4,2,2,Adult (26-44),Male,Travel Rarely,Yes,Best,Very High,Executive,Very High,3-4
+0,1,1,1,1,3,2773,0,3,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Low,Entry,High,5-6
+0,1,3,1,2,3,7104,0,3,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,High,5-6
+0,1,1,0,2,4,6322,1,2,2,6,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Low,Junior,Very High,3-4
+0,2,3,0,1,3,2083,0,2,3,1,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Entry,High,3-4
+0,1,4,0,2,1,8381,0,2,4,14,3,Middle-age (45-59),Female,Travel Rarely,No,Best,Very High,Junior,Low,3-4
+0,1,2,1,1,4,2691,0,4,2,10,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Entry,Very High,7-8
+1,2,1,0,2,1,4286,0,4,3,1,3,Middle-age (45-59),Female,Travel Frequently,No,Better,Low,Junior,Low,7-8
+0,1,3,0,1,4,2659,1,2,3,3,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Entry,Very High,3-4
+0,1,3,1,3,3,9434,0,2,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Middle,High,3-4
+0,1,2,0,2,3,5561,0,5,2,6,2,Adult (26-44),Female,Travel Rarely,No,Good,Medium,Junior,High,9-10
+0,1,2,1,2,4,6646,0,3,3,17,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Very High,5-6
+0,2,3,1,2,4,7725,0,2,1,13,2,Adult (26-44),Male,Travel Frequently,No,Bad,High,Junior,Very High,3-4
+0,1,3,1,3,2,10725,0,1,4,9,3,Middle-age (45-59),Male,Travel Rarely,No,Best,High,Middle,Medium,1-2
+0,1,2,1,2,2,8847,1,2,3,3,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Junior,Medium,3-4
+0,1,1,1,1,4,2045,0,0,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,Very High,No Training
+1,1,4,1,1,3,1009,1,5,3,1,1,Young Adult (18-25),Male,Travel Rarely,Yes,Better,Very High,Entry,High,9-10
+1,2,1,1,1,1,3348,1,3,3,10,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Low,Entry,Low,5-6
+0,3,3,1,1,3,1281,0,3,3,1,2,Adult (26-44),Male,Non-Travel,No,Better,High,Entry,High,5-6
+0,1,1,1,1,1,2819,0,3,4,3,1,Young Adult (18-25),Male,Travel Rarely,No,Best,Low,Entry,Low,5-6
+0,1,4,1,2,2,4851,0,4,3,3,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Very High,Junior,Medium,7-8
+0,1,4,0,2,4,4028,0,2,3,7,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,Very High,3-4
+0,2,2,1,1,4,2720,0,5,3,10,2,Adult (26-44),Male,Travel Frequently,No,Better,Medium,Entry,Very High,9-10
+0,1,2,1,2,2,8120,0,3,3,2,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Medium,Junior,Medium,5-6
+0,2,4,0,2,4,4647,1,3,3,6,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Very High,Junior,Very High,5-6
+0,1,4,1,1,4,4680,0,2,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Very High,3-4
+0,1,4,1,1,3,3221,1,3,3,20,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Entry,High,5-6
+0,1,4,0,3,2,8621,0,3,4,8,2,Adult (26-44),Female,Travel Rarely,No,Best,Very High,Middle,Medium,5-6
+1,1,1,0,2,3,4577,0,3,3,2,1,Young Adult (18-25),Female,Travel Rarely,No,Better,Low,Junior,High,5-6
+0,1,4,0,2,3,4553,0,4,3,20,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,High,7-8
+0,1,4,1,2,4,5396,0,2,2,10,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Junior,Very High,3-4
+1,2,2,1,2,3,6796,1,4,3,4,3,Middle-age (45-59),Male,Travel Frequently,Yes,Better,Medium,Junior,High,7-8
+0,1,2,0,2,4,7625,0,4,2,9,2,Adult (26-44),Female,Travel Rarely,No,Good,Medium,Junior,Very High,7-8
+0,1,3,0,3,1,7412,0,3,3,9,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Middle,Low,5-6
+0,1,3,0,3,4,11159,0,6,3,7,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Middle,Very High,More than 10
+0,1,4,1,2,1,4960,0,2,3,7,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Junior,Low,3-4
+0,2,4,1,3,1,10475,1,2,3,18,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Very High,Middle,Low,3-4
+0,1,3,1,4,3,14814,0,3,3,5,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Senior,High,5-6
+0,1,2,1,5,4,19141,0,2,2,21,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Executive,Very High,3-4
+0,1,1,1,2,1,5405,0,1,3,2,4,Old age (60+),Male,Travel Rarely,No,Better,Low,Junior,Low,1-2
+0,2,4,1,3,1,8793,0,4,2,9,2,Adult (26-44),Male,Travel Frequently,No,Good,Very High,Middle,Low,7-8
+0,1,4,1,5,3,19189,0,3,3,22,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Executive,High,5-6
+0,1,4,1,1,2,3875,0,2,3,2,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Entry,Medium,3-4
+1,1,1,0,1,2,2216,1,4,3,7,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Low,Entry,Medium,7-8
+0,3,1,0,3,1,11713,0,2,3,8,2,Adult (26-44),Female,Non-Travel,No,Better,Low,Middle,Low,3-4
+0,1,3,0,3,3,7861,1,4,4,1,2,Adult (26-44),Female,Travel Rarely,Yes,Best,High,Middle,High,7-8
+0,3,1,1,1,3,3708,0,5,3,5,2,Adult (26-44),Male,Non-Travel,No,Better,Low,Entry,High,9-10
+0,2,4,0,4,3,13770,1,2,2,22,3,Middle-age (45-59),Female,Travel Frequently,Yes,Good,Very High,Senior,High,3-4
+0,1,3,1,2,4,5304,0,2,2,8,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Junior,Very High,3-4
+0,1,3,1,1,3,2642,0,6,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,High,More than 10
+1,2,3,1,1,3,2759,1,2,3,2,2,Adult (26-44),Male,Travel Frequently,Yes,Better,High,Entry,High,3-4
+0,2,4,1,2,4,6804,0,5,3,2,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Junior,Very High,9-10
+0,1,2,0,2,3,6142,0,2,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,High,3-4
+0,1,2,1,1,1,2500,0,2,4,4,1,Young Adult (18-25),Male,Travel Rarely,No,Best,Medium,Entry,Low,3-4
+0,1,3,0,2,2,6389,0,3,1,8,2,Adult (26-44),Female,Travel Rarely,No,Bad,High,Junior,Medium,5-6
+0,1,3,1,4,4,11103,0,1,2,10,3,Middle-age (45-59),Male,Travel Rarely,No,Good,High,Senior,Very High,1-2
+0,1,4,0,1,4,2342,1,2,2,4,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Very High,Entry,Very High,3-4
+0,1,4,0,2,1,6811,0,2,1,7,2,Adult (26-44),Female,Travel Rarely,No,Bad,Very High,Junior,Low,3-4
+0,1,4,1,1,2,2297,0,2,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Medium,3-4
+0,1,4,1,2,4,2450,0,4,3,2,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Junior,Very High,7-8
+0,3,4,0,2,1,5093,0,2,4,1,2,Adult (26-44),Female,Non-Travel,No,Best,Very High,Junior,Low,3-4
+0,2,1,1,2,4,5309,0,2,3,10,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Junior,Very High,3-4
+0,1,4,1,1,3,3057,1,0,1,1,2,Adult (26-44),Male,Travel Rarely,Yes,Bad,Very High,Entry,High,No Training
+0,1,2,0,2,1,5121,0,3,3,0,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,Low,5-6
+0,1,3,1,4,1,16856,0,3,4,34,3,Middle-age (45-59),Male,Travel Rarely,No,Best,High,Senior,Low,5-6
+1,1,4,1,1,4,2686,1,2,2,10,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Very High,Entry,Very High,3-4
+0,1,3,0,2,4,6180,0,5,2,6,1,Young Adult (18-25),Female,Travel Rarely,No,Good,High,Junior,Very High,9-10
+0,1,2,1,2,3,6632,0,3,3,8,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Medium,Junior,High,5-6
+0,1,1,1,1,3,3505,0,3,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Low,Entry,High,5-6
+1,2,2,0,2,3,6397,1,2,3,5,3,Middle-age (45-59),Female,Travel Frequently,Yes,Better,Medium,Junior,High,3-4
+0,1,4,1,2,4,6274,0,5,3,6,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,9-10
+1,1,4,1,5,1,19859,1,2,3,5,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Executive,Low,3-4
+0,3,1,1,3,1,7587,0,1,3,10,2,Adult (26-44),Male,Non-Travel,No,Better,Low,Middle,Low,1-2
+0,3,4,1,1,4,4258,0,3,3,4,3,Middle-age (45-59),Male,Non-Travel,No,Better,Very High,Entry,Very High,5-6
+0,2,1,0,1,4,4364,0,2,3,2,2,Adult (26-44),Female,Travel Frequently,No,Better,Low,Entry,Very High,3-4
+0,1,2,0,2,3,4335,0,3,2,8,2,Adult (26-44),Female,Travel Rarely,No,Good,Medium,Junior,High,5-6
+1,1,4,1,2,1,5326,0,2,2,4,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Junior,Low,3-4
+0,1,2,0,1,4,3280,0,2,3,4,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,Very High,3-4
+0,1,4,0,2,1,5485,1,4,3,5,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,Very High,Junior,Low,7-8
+0,2,3,1,2,4,4342,0,3,3,4,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Junior,Very High,5-6
+0,1,4,0,1,1,2782,1,3,2,5,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Very High,Entry,Low,5-6
+0,2,1,0,2,1,5980,1,2,3,15,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Low,Junior,Low,3-4
+0,1,3,0,1,1,4381,0,3,3,6,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Low,5-6
+0,1,1,0,1,4,2572,0,1,2,3,2,Adult (26-44),Female,Travel Rarely,No,Good,Low,Entry,Very High,1-2
+0,1,4,1,1,3,3833,0,2,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,High,3-4
+0,2,3,0,2,2,4244,0,2,3,8,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Junior,Medium,3-4
+0,1,3,0,2,1,6500,0,1,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Low,1-2
+0,2,2,1,5,4,18430,0,4,2,24,2,Adult (26-44),Male,Travel Frequently,No,Good,Medium,Executive,Very High,7-8
+1,1,3,1,1,1,1601,1,2,3,0,1,Young Adult (18-25),Male,Travel Rarely,Yes,Better,High,Entry,Low,3-4
+0,3,3,1,1,2,2694,0,4,3,1,1,Young Adult (18-25),Male,Non-Travel,No,Better,High,Entry,Medium,7-8
+0,1,4,0,2,3,3149,0,3,3,5,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Junior,High,5-6
+0,1,3,1,4,3,17639,0,3,3,4,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Senior,High,5-6
+1,1,2,0,1,1,2319,1,1,3,1,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Medium,Entry,Low,1-2
+0,1,3,1,3,3,11691,0,3,4,13,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Middle,High,5-6
+1,1,1,0,2,1,5324,0,3,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Junior,Low,5-6
+0,1,3,0,4,4,16752,1,3,2,26,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,High,Senior,Very High,5-6
+0,1,3,0,2,2,5228,0,2,3,9,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Medium,3-4
+0,1,3,1,1,3,2700,0,3,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,High,5-6
+1,1,4,1,5,2,19246,1,2,3,31,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Executive,Medium,3-4
+0,1,4,0,1,3,2506,0,0,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,High,No Training
+0,1,4,0,2,4,6062,1,4,3,4,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Junior,Very High,7-8
+1,1,3,1,1,3,4382,0,3,2,2,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Entry,High,5-6
+0,1,3,1,1,2,2143,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Medium,3-4
+0,1,3,0,2,3,6162,0,3,3,14,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,High,5-6
+0,2,1,1,2,3,5094,0,6,3,1,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Junior,High,More than 10
+0,1,3,0,2,4,6877,1,4,2,0,2,Adult (26-44),Female,Travel Rarely,Yes,Good,High,Junior,Very High,7-8
+0,1,2,0,1,3,2274,0,3,3,1,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Medium,Entry,High,5-6
+0,1,2,1,2,2,4434,0,3,2,9,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Junior,Medium,5-6
+0,2,1,1,2,1,6288,0,3,2,4,2,Adult (26-44),Male,Travel Frequently,No,Good,Low,Junior,Low,5-6
+0,2,3,0,1,4,2553,0,3,3,5,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Entry,Very High,5-6
+1,1,3,0,3,4,7654,0,3,4,9,3,Middle-age (45-59),Female,Travel Rarely,No,Best,High,Middle,Very High,5-6
+1,1,3,1,2,4,5160,0,3,2,9,3,Middle-age (45-59),Male,Travel Rarely,No,Good,High,Junior,Very High,5-6
+0,1,2,1,4,1,17159,0,3,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Senior,Low,5-6
+0,1,3,1,3,4,12808,1,3,3,9,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Middle,Very High,5-6
+0,1,3,1,3,3,10221,0,3,4,8,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Middle,High,5-6
+0,1,2,0,2,2,4779,1,2,3,8,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Medium,Junior,Medium,3-4
+0,1,3,1,1,4,3737,0,1,1,3,2,Adult (26-44),Male,Travel Rarely,No,Bad,High,Entry,Very High,1-2
+1,2,3,0,1,3,2366,1,2,3,8,2,Adult (26-44),Female,Travel Frequently,Yes,Better,High,Entry,High,3-4
+0,3,4,1,1,4,1706,0,6,2,0,2,Adult (26-44),Male,Non-Travel,No,Good,Very High,Entry,Very High,More than 10
+0,1,1,0,4,3,16307,0,2,2,20,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Low,Senior,High,3-4
+0,1,4,1,2,2,5933,0,2,2,5,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Junior,Medium,3-4
+0,1,1,1,1,1,3424,0,3,2,4,1,Young Adult (18-25),Male,Travel Rarely,No,Good,Low,Entry,Low,5-6
+0,1,1,1,2,1,4037,0,5,3,9,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Low,9-10
+0,1,3,0,1,1,2559,0,3,2,6,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Entry,Low,5-6
+0,1,2,1,2,4,6201,1,1,2,18,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Medium,Junior,Very High,1-2
+0,1,2,1,2,4,4403,0,3,2,5,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Junior,Very High,5-6
+0,2,2,1,1,4,3761,0,3,2,5,2,Adult (26-44),Male,Travel Frequently,No,Good,Medium,Entry,Very High,5-6
+0,1,1,0,3,4,10934,1,3,3,5,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,Low,Middle,Very High,5-6
+0,1,4,1,3,1,10761,1,2,3,5,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Middle,Low,3-4
+0,1,3,0,2,3,5175,0,3,2,5,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Junior,High,5-6
+0,2,3,0,4,4,13826,0,3,3,9,3,Middle-age (45-59),Female,Travel Frequently,No,Better,High,Senior,Very High,5-6
+0,1,4,1,2,3,6334,0,2,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,High,3-4
+0,1,2,1,1,4,4936,0,6,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Very High,More than 10
+0,1,4,1,2,4,4775,0,2,1,2,1,Young Adult (18-25),Male,Travel Rarely,No,Bad,Very High,Junior,Very High,3-4
+0,1,1,1,1,4,2818,1,2,2,3,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Low,Entry,Very High,3-4
+0,2,2,1,1,4,2515,1,2,3,2,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Medium,Entry,Very High,3-4
+0,1,1,1,1,1,2342,0,3,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,Low,5-6
+0,1,3,1,2,1,4194,1,3,3,5,1,Young Adult (18-25),Male,Travel Rarely,Yes,Better,High,Junior,Low,5-6
+0,1,4,0,3,3,10685,1,2,3,17,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Middle,High,3-4
+1,2,4,0,1,2,2022,1,3,2,10,2,Adult (26-44),Female,Travel Frequently,Yes,Good,Very High,Entry,Medium,5-6
+0,3,4,1,1,4,2314,0,2,3,3,2,Adult (26-44),Male,Non-Travel,No,Better,Very High,Entry,Very High,3-4
+0,1,3,1,2,1,4256,0,1,4,5,1,Young Adult (18-25),Male,Travel Rarely,No,Best,High,Junior,Low,1-2
+0,1,3,0,1,1,3580,0,2,3,4,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Entry,Low,3-4
+0,3,1,1,1,4,3162,0,2,2,5,1,Young Adult (18-25),Male,Non-Travel,No,Good,Low,Entry,Very High,3-4
+0,2,2,1,2,2,6524,0,3,3,10,2,Adult (26-44),Male,Travel Frequently,No,Better,Medium,Junior,Medium,5-6
+0,1,2,1,1,2,2899,0,3,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Medium,5-6
+0,1,3,0,2,4,5231,1,1,2,5,2,Adult (26-44),Female,Travel Rarely,Yes,Good,High,Junior,Very High,1-2
+0,1,4,1,1,4,2356,1,2,3,6,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Entry,Very High,3-4
+1,1,2,0,1,3,2800,1,3,3,3,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Medium,Entry,High,5-6
+0,1,1,1,4,4,11836,0,3,3,2,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Senior,Very High,5-6
+0,1,4,1,3,2,10903,0,2,3,13,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Middle,Medium,3-4
+0,2,3,0,1,4,2973,0,3,3,5,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Entry,Very High,5-6
+0,1,4,0,4,4,14275,0,0,3,12,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Senior,Very High,No Training
+0,2,4,0,2,4,5562,0,2,2,5,2,Adult (26-44),Female,Travel Frequently,No,Good,Very High,Junior,Very High,3-4
+0,1,3,0,2,4,4537,1,2,3,7,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Junior,Very High,3-4
+0,3,1,1,3,2,7642,1,2,3,10,2,Adult (26-44),Male,Non-Travel,Yes,Better,Low,Middle,Medium,3-4
+0,3,1,1,4,1,17924,0,3,3,31,3,Middle-age (45-59),Male,Non-Travel,No,Better,Low,Senior,Low,5-6
+0,1,4,0,2,4,5204,0,2,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,Very High,3-4
+0,1,4,1,1,2,2277,1,4,4,4,2,Adult (26-44),Male,Travel Rarely,Yes,Best,Very High,Entry,Medium,7-8
+1,1,1,1,1,4,2795,1,2,1,1,2,Adult (26-44),Male,Travel Rarely,Yes,Bad,Low,Entry,Very High,3-4
+0,1,1,0,1,4,2532,0,5,3,4,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Entry,Very High,9-10
+0,1,2,1,1,1,2559,1,0,3,8,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Entry,Low,No Training
+0,1,1,1,2,4,4908,0,3,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Very High,5-6
+1,2,4,1,1,4,2380,1,3,2,1,3,Middle-age (45-59),Male,Travel Frequently,Yes,Good,Very High,Entry,Very High,5-6
+0,1,1,0,2,2,4765,0,2,4,1,2,Adult (26-44),Female,Travel Rarely,No,Best,Low,Junior,Medium,3-4
+1,1,3,0,1,3,2044,0,3,2,2,1,Young Adult (18-25),Female,Travel Rarely,No,Good,High,Entry,High,5-6
+1,1,4,0,1,4,2693,0,3,2,1,1,Young Adult (18-25),Female,Travel Rarely,No,Good,Very High,Entry,Very High,5-6
+0,1,3,1,2,4,6586,1,2,2,16,2,Adult (26-44),Male,Travel Rarely,Yes,Good,High,Junior,Very High,3-4
+0,1,4,0,1,4,3294,1,3,2,3,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,Very High,Entry,Very High,5-6
+1,1,2,0,2,3,4171,1,3,4,3,1,Young Adult (18-25),Female,Travel Rarely,Yes,Best,Medium,Junior,High,5-6
+1,1,2,0,1,4,2778,1,1,2,7,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Medium,Entry,Very High,1-2
+0,1,3,0,1,3,2377,0,2,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,High,3-4
+1,1,4,1,1,1,2404,1,2,1,2,2,Adult (26-44),Male,Travel Rarely,Yes,Bad,Very High,Entry,Low,3-4
+0,1,2,0,1,3,2318,0,2,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,High,3-4
+0,1,2,1,1,2,2008,0,3,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Medium,5-6
+0,1,3,0,2,3,6244,0,6,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,High,More than 10
+0,1,3,1,1,1,2799,1,1,3,3,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Entry,Low,1-2
+0,1,3,0,3,2,10552,1,3,3,6,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Middle,Medium,5-6
+0,1,2,1,1,3,2329,0,2,4,7,2,Adult (26-44),Male,Travel Rarely,No,Best,Medium,Entry,High,3-4
+0,1,4,0,2,4,4014,1,2,1,10,2,Adult (26-44),Female,Travel Rarely,Yes,Bad,Very High,Junior,Very High,3-4
+0,1,1,0,3,2,7403,0,3,2,26,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Low,Middle,Medium,5-6
+0,1,4,1,1,3,2259,0,2,2,0,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Very High,Entry,High,3-4
+0,3,4,0,2,3,6932,0,2,2,9,2,Adult (26-44),Female,Non-Travel,No,Good,Very High,Junior,High,3-4
+0,1,2,1,1,4,4678,0,6,3,6,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Very High,More than 10
+0,1,4,0,3,1,13582,0,3,3,15,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Middle,Low,5-6
+0,3,3,0,1,2,2332,0,3,3,3,2,Adult (26-44),Female,Non-Travel,No,Better,High,Entry,Medium,5-6
+1,1,3,1,1,2,2413,1,2,3,1,1,Young Adult (18-25),Male,Travel Rarely,Yes,Better,High,Entry,Medium,3-4
+0,1,1,1,3,2,9705,0,2,2,1,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Middle,Medium,3-4
+0,2,3,1,2,1,4294,0,2,3,7,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Junior,Low,3-4
+0,1,4,1,1,1,4721,1,3,3,18,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Entry,Low,5-6
+0,1,3,1,1,3,2519,0,6,3,11,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,High,More than 10
+1,1,4,1,1,2,2121,1,3,4,1,1,Young Adult (18-25),Male,Travel Rarely,Yes,Best,Very High,Entry,Medium,5-6
+1,1,1,1,1,1,2973,0,2,3,1,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Low,Entry,Low,3-4
+0,1,4,0,2,4,5855,1,2,1,9,2,Adult (26-44),Female,Travel Rarely,Yes,Bad,Very High,Junior,Very High,3-4
+0,2,4,1,1,2,3617,1,2,3,1,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Very High,Entry,Medium,3-4
+0,1,3,0,2,1,6725,0,2,4,8,2,Adult (26-44),Female,Travel Rarely,No,Best,High,Junior,Low,3-4
+1,1,3,1,3,4,10325,1,6,3,16,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Middle,Very High,More than 10
+0,1,2,0,2,4,6949,0,3,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,Very High,5-6
+1,1,1,1,3,3,10609,0,2,1,14,2,Adult (26-44),Male,Travel Rarely,No,Bad,Low,Middle,High,3-4
+0,3,3,1,2,2,4447,0,5,2,9,3,Middle-age (45-59),Male,Non-Travel,No,Good,High,Junior,Medium,9-10
+0,2,3,0,1,4,2157,0,5,3,3,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Entry,Very High,9-10
+0,1,3,0,2,3,4601,0,3,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,High,5-6
+0,1,4,1,4,4,17099,0,2,2,9,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Very High,Senior,Very High,3-4
+1,1,4,1,1,3,2479,0,4,3,1,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Entry,High,7-8
+0,1,3,1,4,3,14852,0,3,4,17,3,Middle-age (45-59),Male,Travel Rarely,No,Best,High,Senior,High,5-6
+0,1,3,1,3,3,7264,0,2,4,8,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Middle,High,3-4
+0,3,3,0,2,4,5666,1,1,3,5,2,Adult (26-44),Female,Non-Travel,Yes,Better,High,Junior,Very High,1-2
+0,1,4,1,3,4,7823,0,2,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Middle,Very High,3-4
+0,1,1,1,3,3,7880,0,3,3,8,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Middle,High,5-6
+1,3,2,0,4,2,13194,1,2,2,1,2,Adult (26-44),Female,Non-Travel,Yes,Good,Medium,Senior,Medium,3-4
+0,2,3,1,2,3,5067,1,3,4,19,3,Middle-age (45-59),Male,Travel Frequently,Yes,Best,High,Junior,High,5-6
+0,3,1,1,2,4,5079,0,3,3,7,2,Adult (26-44),Male,Non-Travel,No,Better,Low,Junior,Very High,5-6
+1,3,3,1,1,1,2321,1,0,3,3,2,Adult (26-44),Male,Non-Travel,Yes,Better,High,Entry,Low,No Training
+0,3,4,1,4,3,17444,0,2,3,10,2,Adult (26-44),Male,Non-Travel,No,Better,Very High,Senior,High,3-4
+1,1,4,0,1,1,2404,1,5,3,0,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Entry,Low,9-10
+0,1,2,0,1,4,3452,0,4,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,Very High,7-8
+0,1,4,0,1,4,2270,0,2,3,5,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Entry,Very High,3-4
+0,1,4,1,4,4,17399,0,1,2,5,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Very High,Senior,Very High,1-2
+0,2,3,0,2,2,5488,1,2,3,6,2,Adult (26-44),Female,Travel Frequently,Yes,Better,High,Junior,Medium,3-4
+0,2,1,1,5,3,19419,0,2,4,18,2,Adult (26-44),Male,Travel Frequently,No,Best,Low,Executive,High,3-4
+0,1,3,0,1,2,2811,0,2,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Medium,3-4
+0,3,4,1,2,1,3633,1,2,3,9,3,Middle-age (45-59),Male,Non-Travel,Yes,Better,Very High,Junior,Low,3-4
+0,1,4,0,2,4,4163,1,0,3,9,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,Very High,Junior,Very High,No Training
+1,1,1,0,1,3,2132,1,2,3,5,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Low,Entry,High,3-4
+0,1,4,1,4,3,13973,1,2,3,12,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Senior,High,3-4
+0,2,3,1,1,3,2684,0,0,2,2,2,Adult (26-44),Male,Travel Frequently,No,Good,High,Entry,High,No Training
+0,1,4,1,3,3,10845,0,3,3,8,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Middle,High,5-6
+0,1,4,0,2,3,4377,0,6,3,4,1,Young Adult (18-25),Female,Travel Rarely,No,Better,Very High,Junior,High,More than 10
+1,1,3,1,1,2,3743,1,2,1,4,2,Adult (26-44),Male,Travel Rarely,Yes,Bad,High,Entry,Medium,3-4
+0,2,3,0,2,1,4148,0,1,3,4,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Junior,Low,1-2
+0,3,2,1,1,4,1051,0,2,3,0,1,Young Adult (18-25),Male,Non-Travel,No,Better,Medium,Entry,Very High,3-4
+0,1,3,0,3,3,10739,0,2,3,10,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Middle,High,3-4
+0,1,3,0,3,3,10388,1,3,2,16,2,Adult (26-44),Female,Travel Rarely,Yes,Good,High,Middle,High,5-6
+0,1,2,0,3,1,11416,1,4,2,8,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Medium,Middle,Low,7-8
+1,1,4,0,1,1,2600,1,2,3,1,1,Young Adult (18-25),Female,Travel Rarely,Yes,Better,Very High,Entry,Low,3-4
+1,2,2,0,1,2,2422,0,3,3,3,2,Adult (26-44),Female,Travel Frequently,No,Better,Medium,Entry,Medium,5-6
+0,1,4,1,2,4,5472,0,2,3,8,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,3-4
+0,1,2,1,1,1,2451,0,3,2,4,1,Young Adult (18-25),Male,Travel Rarely,No,Good,Medium,Entry,Low,5-6
+0,1,1,1,2,3,4240,0,0,3,2,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Junior,High,No Training
+0,1,3,1,3,3,10999,0,3,3,15,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Middle,High,5-6
+0,1,4,0,2,3,5003,0,6,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,High,More than 10
+0,1,4,0,4,4,12742,0,3,3,21,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Senior,Very High,5-6
+0,1,1,0,2,4,4227,0,2,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Junior,Very High,3-4
+0,1,2,1,1,4,3917,0,4,2,3,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Entry,Very High,7-8
+0,1,4,1,5,3,18303,0,3,4,1,2,Adult (26-44),Male,Travel Rarely,No,Best,Very High,Executive,High,5-6
+0,1,1,1,1,4,2380,0,5,3,1,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Entry,Very High,9-10
+0,1,3,0,4,4,13726,1,4,3,5,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Senior,Very High,7-8
+1,1,1,0,2,2,4777,0,2,1,1,2,Adult (26-44),Female,Travel Rarely,No,Bad,Low,Junior,Medium,3-4
+0,2,3,1,2,2,6385,1,3,3,8,3,Middle-age (45-59),Male,Travel Frequently,Yes,Better,High,Junior,Medium,5-6
+0,3,2,0,5,3,19973,0,3,3,21,2,Adult (26-44),Female,Non-Travel,No,Better,Medium,Executive,High,5-6
+0,1,2,1,2,4,6861,1,1,3,1,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Junior,Very High,1-2
+1,3,2,1,2,1,4969,0,6,3,2,2,Adult (26-44),Male,Non-Travel,No,Better,Medium,Junior,Low,More than 10
+1,1,1,0,5,4,19845,0,3,3,32,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Low,Executive,Very High,5-6
+0,1,4,0,4,4,13320,1,2,3,12,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Senior,Very High,3-4
+0,3,4,0,2,3,6347,0,3,3,18,3,Middle-age (45-59),Female,Non-Travel,No,Better,Very High,Junior,High,5-6
+1,1,3,0,1,1,2743,0,1,3,17,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Low,1-2
+0,2,4,0,3,1,10880,1,2,3,21,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Very High,Middle,Low,3-4
+0,3,2,0,1,4,2342,0,2,2,2,2,Adult (26-44),Female,Non-Travel,No,Good,Medium,Entry,Very High,3-4
+0,1,4,0,4,4,17650,0,4,4,9,3,Middle-age (45-59),Female,Travel Rarely,No,Best,Very High,Senior,Very High,7-8
+0,3,4,0,1,3,4025,0,2,3,8,2,Adult (26-44),Female,Non-Travel,No,Better,Very High,Entry,High,3-4
+0,1,2,1,2,4,9725,0,2,2,15,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Junior,Very High,3-4
+0,1,2,1,3,4,11904,1,1,1,6,3,Middle-age (45-59),Male,Travel Rarely,Yes,Bad,Medium,Middle,Very High,1-2
+0,1,2,1,1,2,2177,0,3,3,6,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Medium,Entry,Medium,5-6
+0,2,3,0,3,2,7525,0,2,3,15,3,Middle-age (45-59),Female,Travel Frequently,No,Better,High,Middle,Medium,3-4
+1,1,1,1,2,3,4834,0,3,2,1,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Junior,High,5-6
+1,2,1,1,1,1,2042,1,2,3,3,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Low,Entry,Low,3-4
+0,1,3,0,1,3,2220,1,2,3,1,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Entry,High,3-4
+0,1,4,1,1,2,1052,0,5,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Medium,9-10
+0,2,3,1,1,3,2821,0,2,3,2,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Entry,High,3-4
+0,1,2,1,5,3,19237,1,2,2,8,3,Middle-age (45-59),Male,Travel Rarely,Yes,Good,Medium,Executive,High,3-4
+0,1,4,0,2,2,4107,0,3,2,4,2,Adult (26-44),Female,Travel Rarely,No,Good,Very High,Junior,Medium,5-6
+0,1,3,1,2,1,8396,0,3,2,7,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Junior,Low,5-6
+0,2,1,0,1,3,2007,0,5,3,5,2,Adult (26-44),Female,Travel Frequently,No,Better,Low,Entry,High,9-10
+0,1,4,1,5,4,19627,0,0,3,2,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Executive,Very High,No Training
+0,1,3,0,3,3,10686,0,4,3,9,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Middle,High,7-8
+0,2,1,0,1,3,2942,0,4,3,5,3,Middle-age (45-59),Female,Travel Frequently,No,Better,Low,Entry,High,7-8
+0,1,4,0,3,4,8858,0,2,2,14,2,Adult (26-44),Female,Travel Rarely,No,Good,Very High,Middle,Very High,3-4
+0,3,3,1,4,1,16756,0,3,4,9,3,Middle-age (45-59),Male,Non-Travel,No,Best,High,Senior,Low,5-6
+0,1,3,1,3,4,10798,0,5,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Middle,Very High,9-10
+1,2,4,0,1,4,2323,1,3,3,2,1,Young Adult (18-25),Female,Travel Frequently,Yes,Better,Very High,Entry,Very High,5-6
+1,1,3,0,1,1,1416,0,6,2,1,1,Young Adult (18-25),Female,Travel Rarely,No,Good,High,Entry,Low,More than 10
+0,1,4,0,2,1,4615,1,2,3,16,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,Very High,Junior,Low,3-4
+1,1,1,1,1,3,2461,1,2,4,10,3,Middle-age (45-59),Male,Travel Rarely,Yes,Best,Low,Entry,High,3-4
+1,3,2,1,3,1,8722,0,2,2,10,2,Adult (26-44),Male,Non-Travel,No,Good,Medium,Middle,Low,3-4
+0,1,1,1,1,1,3955,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,Low,3-4
+0,1,3,1,2,1,9957,0,1,2,6,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Junior,Low,1-2
+0,1,2,0,1,3,3376,0,3,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,High,5-6
+0,1,3,0,3,3,8823,0,4,2,19,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Middle,High,7-8
+0,1,1,1,3,4,10322,0,6,3,11,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Middle,Very High,More than 10
+0,3,1,1,1,3,4621,0,4,3,3,2,Adult (26-44),Male,Non-Travel,No,Better,Low,Entry,High,7-8
+0,2,4,1,3,2,10976,0,4,3,3,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Very High,Middle,Medium,7-8
+0,1,3,0,2,3,3660,0,4,4,8,2,Adult (26-44),Female,Travel Rarely,No,Best,High,Junior,High,7-8
+1,1,2,1,3,1,10482,0,1,3,20,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Middle,Low,1-2
+0,1,4,1,3,4,7119,0,2,3,3,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Middle,Very High,3-4
+1,1,4,1,3,1,9582,1,2,3,8,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Middle,Low,3-4
+1,2,1,0,2,3,4508,0,4,3,13,2,Adult (26-44),Female,Travel Frequently,No,Better,Low,Junior,High,7-8
+0,1,1,1,1,3,2207,0,5,2,4,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Entry,High,9-10
+0,2,1,1,2,4,7756,0,1,2,6,2,Adult (26-44),Male,Travel Frequently,No,Good,Low,Junior,Very High,1-2
+0,1,4,0,2,4,6694,1,5,3,1,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Junior,Very High,9-10
+1,1,4,1,1,4,3691,1,3,4,7,1,Young Adult (18-25),Male,Travel Rarely,Yes,Best,Very High,Entry,Very High,5-6
+1,1,1,1,1,3,2377,0,0,2,1,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Entry,High,No Training
+1,1,1,1,1,2,2313,1,0,3,2,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Low,Entry,Medium,No Training
+0,1,4,1,4,1,17665,0,3,3,22,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Senior,Low,5-6
+1,2,1,1,1,2,2596,0,2,3,1,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Entry,Medium,3-4
+1,2,4,1,2,3,4728,1,4,3,0,3,Middle-age (45-59),Male,Travel Frequently,Yes,Better,Very High,Junior,High,7-8
+0,2,4,0,2,2,4302,0,3,3,3,2,Adult (26-44),Female,Travel Frequently,No,Better,Very High,Junior,Medium,5-6
+0,3,3,1,1,4,2979,0,2,3,0,2,Adult (26-44),Male,Non-Travel,No,Better,High,Entry,Very High,3-4
+0,3,1,1,4,4,16885,0,3,2,5,3,Middle-age (45-59),Male,Non-Travel,No,Good,Low,Senior,Very High,5-6
+0,3,2,0,2,3,5593,0,2,3,15,3,Middle-age (45-59),Female,Non-Travel,No,Better,Medium,Junior,High,3-4
+0,1,2,1,3,2,10445,0,4,3,8,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Medium,Middle,Medium,7-8
+0,1,3,1,3,3,8740,1,2,3,8,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Middle,High,3-4
+0,1,3,0,1,4,2514,0,1,3,7,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Very High,1-2
+0,1,4,0,3,2,7655,0,3,2,9,2,Adult (26-44),Female,Travel Rarely,No,Good,Very High,Middle,Medium,5-6
+0,1,1,1,4,3,17465,0,3,3,12,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Senior,High,5-6
+0,1,4,1,3,2,7351,0,2,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Middle,Medium,3-4
+0,2,3,0,3,1,10820,0,1,3,8,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Middle,Low,1-2
+1,2,1,1,4,4,12169,0,4,3,18,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Senior,Very High,7-8
+0,1,3,1,5,3,19626,0,2,4,20,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Executive,High,3-4
+0,1,4,0,1,2,2070,1,6,4,2,1,Young Adult (18-25),Female,Travel Rarely,Yes,Best,Very High,Entry,Medium,More than 10
+0,3,3,1,2,2,6782,0,2,2,5,2,Adult (26-44),Male,Non-Travel,No,Good,High,Junior,Medium,3-4
+0,3,1,1,2,4,7779,0,0,3,11,2,Adult (26-44),Male,Non-Travel,No,Better,Low,Junior,Very High,No Training
+0,2,3,1,1,4,2791,0,4,3,2,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Entry,Very High,7-8
+0,1,1,1,1,2,3201,0,2,1,5,2,Adult (26-44),Male,Travel Rarely,No,Bad,Low,Entry,Medium,3-4
+0,2,4,1,2,4,4968,0,3,3,5,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Junior,Very High,5-6
+0,1,4,1,4,2,13120,0,3,3,9,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Senior,Medium,5-6
+0,2,4,1,2,3,4033,0,3,2,3,2,Adult (26-44),Male,Travel Frequently,No,Good,Very High,Junior,High,5-6
+0,2,4,0,1,2,3291,0,2,2,7,2,Adult (26-44),Female,Travel Frequently,No,Good,Very High,Entry,Medium,3-4
+0,1,2,1,2,4,4272,0,3,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Very High,5-6
+0,1,2,1,2,4,5056,1,2,2,10,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Medium,Junior,Very High,3-4
+0,1,3,1,1,3,2844,0,2,4,7,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Entry,High,3-4
+0,2,3,1,1,3,2703,1,2,3,3,2,Adult (26-44),Male,Travel Frequently,Yes,Better,High,Entry,High,3-4
+1,3,3,1,1,3,1904,0,0,3,0,1,Young Adult (18-25),Male,Non-Travel,No,Better,High,Entry,High,No Training
+1,1,1,0,2,1,8224,1,3,3,5,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Low,Junior,Low,5-6
+0,1,2,1,1,4,4766,1,4,3,1,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Entry,Very High,7-8
+1,2,3,1,1,3,2610,0,5,2,2,2,Adult (26-44),Male,Travel Frequently,No,Good,High,Entry,High,9-10
+0,1,3,0,2,4,5731,0,2,3,6,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Very High,3-4
+0,1,4,1,1,3,2539,0,0,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,High,No Training
+0,1,2,0,2,3,5714,0,3,2,6,2,Adult (26-44),Female,Travel Rarely,No,Good,Medium,Junior,High,5-6
+0,1,3,1,1,3,4323,0,2,1,5,2,Adult (26-44),Male,Travel Rarely,No,Bad,High,Entry,High,3-4
+1,1,4,0,3,1,7336,0,3,1,11,2,Adult (26-44),Female,Travel Rarely,No,Bad,Very High,Middle,Low,5-6
+0,2,2,0,3,3,13499,0,3,2,18,2,Adult (26-44),Female,Travel Frequently,No,Good,Medium,Middle,High,5-6
+1,2,3,1,4,1,13758,1,2,2,21,2,Adult (26-44),Male,Travel Frequently,Yes,Good,High,Senior,Low,3-4
+0,1,2,1,2,1,5155,0,3,4,6,2,Adult (26-44),Male,Travel Rarely,No,Best,Medium,Junior,Low,5-6
+0,1,4,1,1,3,2258,0,2,3,8,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,High,3-4
+0,1,4,1,1,2,3597,0,2,3,4,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Very High,Entry,Medium,3-4
+1,1,3,0,1,4,2515,1,4,2,1,2,Adult (26-44),Female,Travel Rarely,Yes,Good,High,Entry,Very High,7-8
+0,1,1,1,1,4,4420,0,2,3,8,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,Very High,3-4
+0,1,3,1,2,3,6578,0,3,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,High,5-6
+0,2,3,0,2,4,4422,1,3,1,1,2,Adult (26-44),Female,Travel Frequently,Yes,Bad,High,Junior,Very High,5-6
+0,1,3,1,3,2,10274,0,2,4,7,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Middle,Medium,3-4
+0,2,4,1,2,1,5343,0,3,3,13,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Junior,Low,5-6
+0,2,4,1,1,4,2376,0,2,4,2,2,Adult (26-44),Male,Travel Frequently,No,Best,Very High,Entry,Very High,3-4
+1,1,1,0,2,3,5346,0,2,2,4,2,Adult (26-44),Female,Travel Rarely,No,Good,Low,Junior,High,3-4
+0,3,3,0,1,1,2827,0,3,3,1,2,Adult (26-44),Female,Non-Travel,No,Better,High,Entry,Low,5-6
+0,1,4,0,5,1,19943,0,2,3,5,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Executive,Low,3-4
+0,1,2,0,1,4,3131,0,5,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,Very High,9-10
+0,1,3,1,1,1,2552,0,4,3,1,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,Low,7-8
+0,1,1,0,1,3,4477,1,2,2,3,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,Low,Entry,High,3-4
+0,1,4,0,2,4,6474,0,2,2,14,2,Adult (26-44),Female,Travel Rarely,No,Good,Very High,Junior,Very High,3-4
+0,1,1,1,1,3,3033,0,2,2,2,1,Young Adult (18-25),Male,Travel Rarely,No,Good,Low,Entry,High,3-4
+1,1,3,1,1,3,2936,1,4,3,6,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Entry,High,7-8
+0,1,4,0,5,3,18606,0,6,3,7,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Executive,High,More than 10
+0,1,2,0,1,4,2168,1,2,2,5,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Medium,Entry,Very High,3-4
+1,2,3,1,1,4,2853,1,5,3,0,1,Young Adult (18-25),Male,Travel Frequently,Yes,Better,High,Entry,Very High,9-10
+0,1,3,0,4,1,17048,0,2,3,26,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Senior,Low,3-4
+0,3,4,1,1,3,2290,0,3,3,0,2,Adult (26-44),Male,Non-Travel,No,Better,Very High,Entry,High,5-6
+0,1,2,1,1,3,3600,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,High,3-4
+1,3,1,1,1,1,2107,0,2,1,1,2,Adult (26-44),Male,Non-Travel,No,Bad,Low,Entry,Low,3-4
+0,1,3,1,2,1,4115,0,3,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Low,5-6
+0,2,2,1,2,2,4327,0,2,3,0,2,Adult (26-44),Male,Travel Frequently,No,Better,Medium,Junior,Medium,3-4
+0,2,4,0,4,1,17856,0,3,3,2,3,Middle-age (45-59),Female,Travel Frequently,No,Better,Very High,Senior,Low,5-6
+0,1,4,1,1,1,3196,0,2,3,6,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Low,3-4
+0,1,4,1,5,2,19081,0,2,3,4,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Executive,Medium,3-4
+0,1,3,1,2,1,8966,1,2,3,7,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Junior,Low,3-4
+1,1,4,0,1,2,2210,0,3,1,1,1,Young Adult (18-25),Female,Travel Rarely,No,Bad,Very High,Entry,Medium,5-6
+0,2,2,0,2,3,4539,0,3,2,10,2,Adult (26-44),Female,Travel Frequently,No,Good,Medium,Junior,High,5-6
+0,1,3,1,1,3,2741,0,4,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,High,7-8
+0,1,3,1,2,3,3491,0,4,2,10,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Junior,High,7-8
+0,1,4,1,2,4,4541,0,3,3,20,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,5-6
+0,1,3,1,1,4,2678,0,2,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,Very High,3-4
+0,1,4,1,2,4,7379,0,3,2,6,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Very High,Junior,Very High,5-6
+0,3,4,1,2,1,6272,0,3,4,4,2,Adult (26-44),Male,Non-Travel,No,Best,Very High,Junior,Low,5-6
+0,1,2,1,2,4,5220,1,3,3,11,4,Old age (60+),Male,Travel Rarely,Yes,Better,Medium,Junior,Very High,5-6
+0,2,3,0,1,2,2743,0,2,3,2,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Entry,Medium,3-4
+0,2,4,0,2,3,4998,1,2,3,8,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Very High,Junior,High,3-4
+0,1,3,0,3,1,10252,1,2,3,7,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Middle,Low,3-4
+0,1,1,1,1,4,2781,0,5,3,14,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,Very High,9-10
+0,1,2,0,2,2,6852,0,2,4,5,2,Adult (26-44),Female,Travel Rarely,No,Best,Medium,Junior,Medium,3-4
+0,1,3,1,2,4,4950,0,4,3,4,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Junior,Very High,7-8
+0,1,4,1,1,2,3579,1,2,3,11,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Entry,Medium,3-4
+0,2,1,0,3,1,13191,1,6,3,1,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Low,Middle,Low,More than 10
+0,3,3,0,3,4,10377,1,6,2,13,2,Adult (26-44),Female,Non-Travel,Yes,Good,High,Middle,Very High,More than 10
+0,1,1,1,1,1,2235,1,3,2,9,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Low,Entry,Low,5-6
+0,2,4,0,3,3,10502,0,2,1,5,3,Middle-age (45-59),Female,Travel Frequently,No,Bad,Very High,Middle,High,3-4
+0,1,1,0,1,4,2011,0,5,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Entry,Very High,9-10
+1,3,1,0,1,2,1859,1,2,4,1,1,Young Adult (18-25),Female,Non-Travel,Yes,Best,Low,Entry,Medium,3-4
+0,1,1,0,1,4,3760,0,5,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Entry,Very High,9-10
+0,1,4,1,4,4,17779,0,2,3,10,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Senior,Very High,3-4
+0,1,3,1,2,1,6833,1,2,2,6,2,Adult (26-44),Male,Travel Rarely,Yes,Good,High,Junior,Low,3-4
+0,1,3,0,2,1,6812,0,2,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Low,3-4
+0,1,3,0,2,4,5171,0,2,3,6,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Junior,Very High,3-4
+0,1,3,1,5,4,19740,0,2,3,8,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Executive,Very High,3-4
+0,1,1,1,5,3,18711,0,2,4,1,3,Middle-age (45-59),Male,Travel Rarely,No,Best,Low,Executive,High,3-4
+0,2,3,1,1,2,3692,0,2,2,11,2,Adult (26-44),Male,Travel Frequently,No,Good,High,Entry,Medium,3-4
+0,1,4,1,1,2,2559,0,4,2,1,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Very High,Entry,Medium,7-8
+0,1,1,1,1,3,2517,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,High,3-4
+0,1,3,1,2,4,6623,1,2,3,6,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Junior,Very High,3-4
+0,1,4,1,5,4,18265,0,3,4,1,3,Middle-age (45-59),Male,Travel Rarely,No,Best,Very High,Executive,Very High,5-6
+0,1,4,0,4,4,16124,0,2,2,7,2,Adult (26-44),Female,Travel Rarely,No,Good,Very High,Senior,Very High,3-4
+0,1,3,0,1,3,2585,0,5,2,1,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Entry,High,9-10
+0,1,2,1,5,2,18213,0,5,3,22,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Executive,Medium,9-10
+0,1,4,1,3,3,8380,1,3,3,9,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Middle,High,5-6
+0,1,2,0,1,4,2994,1,2,3,1,1,Young Adult (18-25),Female,Travel Rarely,Yes,Better,Medium,Entry,Very High,3-4
+0,1,4,1,1,3,1223,0,2,3,1,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Very High,Entry,High,3-4
+1,2,3,1,1,4,1118,1,4,3,1,1,Young Adult (18-25),Male,Travel Frequently,Yes,Better,High,Entry,Very High,7-8
+0,1,3,1,1,4,2875,1,2,2,8,2,Adult (26-44),Male,Travel Rarely,Yes,Good,High,Entry,Very High,3-4
+1,1,1,0,5,2,18824,1,2,3,24,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,Low,Executive,Medium,3-4
+0,3,4,1,4,2,13577,1,3,3,33,3,Middle-age (45-59),Male,Non-Travel,Yes,Better,Very High,Senior,Medium,5-6
+1,2,1,0,1,3,2625,0,2,1,2,1,Young Adult (18-25),Female,Travel Frequently,No,Bad,Low,Entry,High,3-4
+0,1,4,0,5,2,18789,0,2,3,11,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Executive,Medium,3-4
+0,1,3,0,2,1,4538,1,3,3,3,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Junior,Low,5-6
+0,2,4,1,5,2,19847,1,5,2,29,3,Middle-age (45-59),Male,Travel Frequently,Yes,Good,Very High,Executive,Medium,9-10
+0,1,4,1,3,4,10512,0,6,2,9,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Very High,Middle,Very High,More than 10
+0,2,3,0,2,2,4444,0,2,4,11,2,Adult (26-44),Female,Travel Frequently,No,Best,High,Junior,Medium,3-4
+0,2,4,1,1,3,2154,1,2,2,4,2,Adult (26-44),Male,Travel Frequently,Yes,Good,Very High,Entry,High,3-4
+0,1,3,1,5,1,19190,0,4,2,25,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Executive,Low,7-8
+0,2,3,1,2,2,4490,0,5,4,10,2,Adult (26-44),Male,Travel Frequently,No,Best,High,Junior,Medium,9-10
+0,1,3,1,1,3,3506,1,3,3,3,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Entry,High,5-6
+0,1,2,0,2,2,2372,1,2,3,1,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Medium,Junior,Medium,3-4
+0,1,4,0,3,4,10231,0,3,4,21,2,Adult (26-44),Female,Travel Rarely,No,Best,Very High,Middle,Very High,5-6
+0,1,3,0,2,2,5410,1,2,3,16,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Junior,Medium,3-4
+1,1,1,0,3,4,7978,0,2,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Middle,Very High,3-4
+0,2,4,1,1,4,3867,1,2,3,2,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Very High,Entry,Very High,3-4
+0,2,2,0,1,3,2838,0,6,2,7,3,Middle-age (45-59),Female,Travel Frequently,No,Good,Medium,Entry,High,More than 10
+0,3,3,0,2,3,4695,1,3,3,8,2,Adult (26-44),Female,Non-Travel,Yes,Better,High,Junior,High,5-6
+1,1,2,0,1,3,3339,1,2,3,7,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Medium,Entry,High,3-4
+0,1,4,1,1,1,2080,0,2,2,3,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Entry,Low,3-4
+0,1,4,0,1,2,2096,0,3,2,2,1,Young Adult (18-25),Female,Travel Rarely,No,Good,Very High,Entry,Medium,5-6
+0,1,3,1,2,4,6209,0,4,4,10,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Junior,Very High,7-8
+0,2,2,0,5,2,18061,0,4,3,0,3,Middle-age (45-59),Female,Travel Frequently,No,Better,Medium,Executive,Medium,7-8
+0,1,3,0,4,2,17123,1,4,3,19,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Senior,Medium,7-8
+0,1,1,1,1,3,2372,0,3,3,2,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Entry,High,5-6
+1,1,4,1,2,3,4883,0,3,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,High,5-6
+1,1,3,1,1,1,3904,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Low,3-4
+0,1,1,0,2,4,4627,0,6,3,9,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Junior,Very High,More than 10
+0,1,4,0,3,3,7094,0,0,3,7,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Middle,High,No Training
+0,1,4,0,1,1,3423,0,3,4,7,3,Middle-age (45-59),Female,Travel Rarely,No,Best,Very High,Entry,Low,5-6
+0,3,3,0,2,4,6674,0,6,3,9,2,Adult (26-44),Female,Non-Travel,No,Better,High,Junior,Very High,More than 10
+0,1,4,0,4,1,16880,1,2,3,3,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,Very High,Senior,Low,3-4
+1,1,4,1,3,2,9094,1,2,3,5,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Middle,Medium,3-4
+1,1,2,1,3,2,8446,1,2,2,8,3,Middle-age (45-59),Male,Travel Rarely,Yes,Good,Medium,Middle,Medium,3-4
+0,1,2,0,3,1,11916,1,2,3,9,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Medium,Middle,Low,3-4
+0,1,1,1,2,3,4534,0,6,3,8,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,High,More than 10
+0,3,4,0,3,3,9852,1,5,2,10,2,Adult (26-44),Female,Non-Travel,Yes,Good,Very High,Middle,High,9-10
+0,3,3,1,2,2,6151,0,4,3,19,2,Adult (26-44),Male,Non-Travel,No,Better,High,Junior,Medium,7-8
+1,2,4,0,1,2,2302,1,2,4,3,2,Adult (26-44),Female,Travel Frequently,Yes,Best,Very High,Entry,Medium,3-4
+1,1,1,1,1,1,2362,0,4,4,3,2,Adult (26-44),Male,Travel Rarely,No,Best,Low,Entry,Low,7-8
+0,3,3,1,4,3,17861,1,3,2,20,2,Adult (26-44),Male,Non-Travel,Yes,Good,High,Senior,High,5-6
+0,1,4,0,5,3,19187,0,5,3,19,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Executive,High,9-10
+0,1,4,1,5,2,19717,0,4,3,7,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Executive,Medium,7-8
+0,3,3,1,1,3,3544,0,0,3,4,2,Adult (26-44),Male,Non-Travel,No,Better,High,Entry,High,No Training
+0,1,4,1,3,4,8500,0,0,2,9,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Middle,Very High,No Training
+0,1,3,1,2,4,4661,0,4,3,9,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Very High,7-8
+0,2,3,0,2,1,4103,0,2,3,9,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Junior,Low,3-4
+0,2,3,1,2,3,4249,1,3,3,9,2,Adult (26-44),Male,Travel Frequently,Yes,Better,High,Junior,High,5-6
+0,1,3,1,4,2,14026,1,2,3,33,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,High,Senior,Medium,3-4
+0,1,2,0,2,1,6893,0,3,3,7,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,Low,5-6
+0,1,3,0,2,1,6125,0,6,4,10,2,Adult (26-44),Female,Travel Rarely,No,Best,High,Junior,Low,More than 10
+0,1,4,1,1,4,3669,0,6,2,3,1,Young Adult (18-25),Male,Travel Rarely,No,Good,Very High,Entry,Very High,More than 10
+1,1,3,0,3,1,10008,1,0,2,10,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,High,Middle,Low,No Training
+0,1,2,1,1,2,2387,0,3,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Medium,5-6
+0,2,1,0,2,1,4639,0,2,2,15,2,Adult (26-44),Female,Travel Frequently,No,Good,Low,Junior,Low,3-4
+0,1,4,1,3,4,7898,0,2,3,10,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Middle,Very High,3-4
+0,1,3,0,1,4,2534,0,4,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Very High,7-8
+0,1,4,0,4,2,13142,0,1,2,5,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Very High,Senior,Medium,1-2
+0,3,4,0,1,4,1611,0,5,4,0,1,Young Adult (18-25),Female,Non-Travel,No,Best,Very High,Entry,Very High,9-10
+0,1,4,0,2,4,5363,0,0,3,9,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,Very High,No Training
+0,2,4,1,2,4,5071,0,3,3,6,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Junior,Very High,5-6
+1,1,1,1,4,3,13695,1,2,2,19,3,Middle-age (45-59),Male,Travel Rarely,Yes,Good,Low,Senior,High,3-4
+0,1,4,1,4,2,13402,1,0,3,19,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Senior,Medium,No Training
+0,3,1,0,1,3,2029,0,2,3,5,2,Adult (26-44),Female,Non-Travel,No,Better,Low,Entry,High,3-4
+0,1,2,0,2,3,6377,0,0,3,12,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,High,No Training
+0,1,2,1,2,3,5429,0,1,3,8,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,High,1-2
+1,2,3,0,1,4,2785,0,3,4,1,2,Adult (26-44),Female,Travel Frequently,No,Best,High,Entry,Very High,5-6
+1,2,4,0,2,3,4614,1,0,2,4,2,Adult (26-44),Female,Travel Frequently,Yes,Good,Very High,Junior,High,No Training
+0,2,4,1,1,3,2610,0,2,3,4,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Entry,High,3-4
+0,1,3,0,2,4,6687,0,2,4,14,2,Adult (26-44),Female,Travel Rarely,No,Best,High,Junior,Very High,3-4
+0,1,3,1,2,1,4724,0,0,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Low,No Training
+1,1,4,1,2,3,6179,1,3,2,10,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Very High,Junior,High,5-6
+0,1,1,1,2,4,6120,1,2,4,5,2,Adult (26-44),Male,Travel Rarely,Yes,Best,Low,Junior,Very High,3-4
+0,2,2,1,3,2,10596,0,5,3,4,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Medium,Middle,Medium,9-10
+0,2,4,0,2,4,5467,1,4,2,6,2,Adult (26-44),Female,Travel Frequently,Yes,Good,Very High,Junior,Very High,7-8
+0,1,3,1,1,3,2996,1,2,3,6,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Entry,High,3-4
+0,2,2,1,2,4,9998,0,2,4,5,2,Adult (26-44),Male,Travel Frequently,No,Best,Medium,Junior,Very High,3-4
+0,1,3,1,2,2,4078,1,3,2,3,2,Adult (26-44),Male,Travel Rarely,Yes,Good,High,Junior,Medium,5-6
+0,3,3,1,3,3,10920,0,2,3,6,2,Adult (26-44),Male,Non-Travel,No,Better,High,Middle,High,3-4
+0,1,1,1,2,3,6232,0,3,2,3,1,Young Adult (18-25),Male,Travel Rarely,No,Good,Low,Junior,High,5-6
+0,2,4,0,4,3,13247,1,3,2,5,3,Middle-age (45-59),Female,Travel Frequently,Yes,Good,Very High,Senior,High,5-6
+0,1,1,0,2,3,4081,1,3,1,20,2,Adult (26-44),Female,Travel Rarely,Yes,Bad,Low,Junior,High,5-6
+0,1,4,0,2,4,5769,1,3,3,6,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Junior,Very High,5-6
+1,1,4,0,1,3,2394,1,2,3,8,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Entry,High,3-4
+0,1,1,1,1,4,3904,0,2,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,Very High,3-4
+0,1,3,0,4,1,16799,0,5,3,20,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Senior,Low,9-10
+0,1,3,0,1,1,2950,0,2,1,5,3,Middle-age (45-59),Female,Travel Rarely,No,Bad,High,Entry,Low,3-4
+0,1,1,0,1,3,3629,0,6,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Entry,High,More than 10
+0,2,3,1,3,4,9362,0,2,3,2,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Middle,Very High,3-4
+0,1,1,1,1,4,3229,0,2,2,3,1,Young Adult (18-25),Male,Travel Rarely,No,Good,Low,Entry,Very High,3-4
+0,1,3,1,1,1,3578,0,2,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Low,3-4
+0,1,2,1,3,1,7988,0,3,2,10,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Middle,Low,5-6
+1,2,1,1,2,1,4284,0,2,3,4,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Low,Junior,Low,3-4
+1,2,3,0,3,4,7553,1,1,3,8,2,Adult (26-44),Female,Travel Frequently,Yes,Better,High,Middle,Very High,1-2
+0,1,4,0,4,4,17328,0,3,2,20,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Very High,Senior,Very High,5-6
+0,1,4,0,5,1,19701,1,3,3,9,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,Very High,Executive,Low,5-6
+0,1,2,1,4,4,14732,0,4,4,7,3,Middle-age (45-59),Male,Travel Rarely,No,Best,Medium,Senior,Very High,7-8
+0,1,1,0,2,2,9278,1,3,3,5,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Low,Junior,Medium,5-6
+1,2,2,0,1,3,1359,0,3,3,1,2,Adult (26-44),Female,Travel Frequently,No,Better,Medium,Entry,High,5-6
+0,1,4,0,2,1,4779,0,3,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,Low,5-6
+0,1,1,0,4,2,16422,0,3,4,3,2,Adult (26-44),Female,Travel Rarely,No,Best,Low,Senior,Medium,5-6
+0,2,4,1,1,1,2996,0,2,3,4,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Entry,Low,3-4
+1,1,1,0,1,2,1261,0,3,4,1,2,Adult (26-44),Female,Travel Rarely,No,Best,Low,Entry,Medium,5-6
+0,1,2,1,1,1,2099,0,3,4,5,2,Adult (26-44),Male,Travel Rarely,No,Best,Medium,Entry,Low,5-6
+0,1,1,1,2,4,5810,0,2,2,10,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Junior,Very High,3-4
+0,1,3,0,2,1,5647,0,3,2,3,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Junior,Low,5-6
+0,1,1,1,1,4,3420,0,2,2,6,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Low,Entry,Very High,3-4
+1,1,1,1,1,1,4400,0,2,3,3,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Low,Entry,Low,3-4
+0,3,3,1,1,3,3500,0,2,1,6,2,Adult (26-44),Male,Non-Travel,No,Bad,High,Entry,High,3-4
+0,1,1,0,1,1,2066,0,3,4,3,3,Middle-age (45-59),Female,Travel Rarely,No,Best,Low,Entry,Low,5-6
+0,1,1,0,4,3,17169,0,2,4,20,3,Middle-age (45-59),Female,Travel Rarely,No,Best,Low,Senior,High,3-4
+0,1,4,0,2,3,4162,1,3,3,5,1,Young Adult (18-25),Female,Travel Rarely,Yes,Better,Very High,Junior,High,5-6
+0,1,4,1,2,4,9204,0,3,2,4,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Junior,Very High,5-6
+0,1,4,0,1,2,3294,0,2,2,5,2,Adult (26-44),Female,Travel Rarely,No,Good,Very High,Entry,Medium,3-4
+0,1,2,1,1,3,2127,1,5,2,4,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Medium,Entry,High,9-10
+0,3,3,1,2,3,3975,0,2,4,8,2,Adult (26-44),Male,Non-Travel,No,Best,High,Junior,High,3-4
+0,1,1,1,3,4,10793,0,5,3,13,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Middle,Very High,9-10
+1,1,1,1,3,4,10096,0,1,4,7,3,Middle-age (45-59),Male,Travel Rarely,No,Best,Low,Middle,Very High,1-2
+1,3,1,0,1,1,3646,1,2,4,1,2,Adult (26-44),Female,Non-Travel,Yes,Best,Low,Entry,Low,3-4
+1,2,3,0,3,2,7446,0,2,3,10,2,Adult (26-44),Female,Travel Frequently,No,Better,High,Middle,Medium,3-4
+0,1,2,1,3,1,10851,1,2,3,7,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Medium,Middle,Low,3-4
+0,1,4,0,1,2,2109,0,3,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,Medium,5-6
+1,2,2,1,1,4,3722,1,2,1,2,2,Adult (26-44),Male,Travel Frequently,Yes,Bad,Medium,Entry,Very High,3-4
+0,1,2,1,3,4,9380,1,4,4,3,3,Middle-age (45-59),Male,Travel Rarely,Yes,Best,Medium,Middle,Very High,7-8
+0,1,3,1,2,1,5486,0,3,3,2,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Junior,Low,5-6
+1,1,1,0,1,3,2742,0,0,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Entry,High,No Training
+0,3,4,1,3,2,13757,0,5,3,9,2,Adult (26-44),Male,Non-Travel,No,Better,Very High,Middle,Medium,9-10
+0,1,4,1,2,1,8463,0,4,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Low,7-8
+0,3,3,1,1,3,3162,0,5,3,5,2,Adult (26-44),Male,Non-Travel,No,Better,High,Entry,High,9-10
+0,1,4,1,4,2,16598,0,2,2,9,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Very High,Senior,Medium,3-4
+0,1,1,1,2,3,6651,0,0,2,3,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Low,Junior,High,No Training
+0,1,3,1,1,3,2345,0,3,4,3,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Entry,High,5-6
+0,1,4,1,1,2,3420,0,3,2,5,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Entry,Medium,5-6
+0,2,4,1,2,1,4373,0,2,3,4,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Junior,Low,3-4
+0,1,4,1,2,1,4759,0,2,3,13,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Low,3-4
+0,1,4,1,2,3,5301,0,2,2,2,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Junior,High,3-4
+0,2,1,0,1,4,3673,0,3,3,12,2,Adult (26-44),Female,Travel Frequently,No,Better,Low,Entry,Very High,5-6
+0,2,1,0,2,3,4768,0,4,2,1,2,Adult (26-44),Female,Travel Frequently,No,Good,Low,Junior,High,7-8
+0,3,3,1,1,3,1274,0,2,2,1,2,Adult (26-44),Male,Non-Travel,No,Good,High,Entry,High,3-4
+0,1,2,1,2,3,4900,0,2,2,12,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Medium,Junior,High,3-4
+0,1,3,1,3,2,10466,0,3,3,8,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Middle,Medium,5-6
+0,2,2,1,4,1,17007,0,3,2,14,2,Adult (26-44),Male,Travel Frequently,No,Good,Medium,Senior,Low,5-6
+1,2,1,1,1,3,2909,0,3,4,3,2,Adult (26-44),Male,Travel Frequently,No,Best,Low,Entry,High,5-6
+1,2,1,0,2,2,5765,0,4,1,5,2,Adult (26-44),Female,Travel Frequently,No,Bad,Low,Junior,Medium,7-8
+1,1,1,0,2,2,4599,1,2,4,15,2,Adult (26-44),Female,Travel Rarely,Yes,Best,Low,Junior,Medium,3-4
+0,1,4,1,1,3,2404,0,3,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,High,5-6
+1,2,2,1,1,1,3172,1,2,2,0,1,Young Adult (18-25),Male,Travel Frequently,Yes,Good,Medium,Entry,Low,3-4
+0,3,4,0,1,2,2033,0,2,3,1,1,Young Adult (18-25),Female,Non-Travel,No,Better,Very High,Entry,Medium,3-4
+0,2,2,1,3,3,10209,1,2,2,2,2,Adult (26-44),Male,Travel Frequently,Yes,Good,Medium,Middle,High,3-4
+0,1,3,1,2,3,8620,0,3,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,High,5-6
+0,1,3,1,1,3,2064,0,3,4,5,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Entry,High,5-6
+0,1,4,1,2,3,4035,1,2,3,3,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Junior,High,3-4
+0,1,1,0,1,2,3838,0,5,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Entry,Medium,9-10
+0,1,3,0,2,3,4591,1,4,2,5,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,High,Junior,High,7-8
+1,2,3,1,1,1,2561,0,2,2,0,2,Adult (26-44),Male,Travel Frequently,No,Good,High,Entry,Low,3-4
+0,1,1,1,1,3,1563,0,2,1,1,2,Adult (26-44),Male,Travel Rarely,No,Bad,Low,Entry,High,3-4
+0,2,3,1,2,1,4898,0,5,3,4,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Junior,Low,9-10
+0,1,3,0,2,1,4789,0,3,3,3,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Junior,Low,5-6
+0,2,4,0,1,2,3180,0,3,3,3,2,Adult (26-44),Female,Travel Frequently,No,Better,Very High,Entry,Medium,5-6
+0,1,3,1,2,2,6549,0,2,2,8,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Junior,Medium,3-4
+0,1,4,1,2,3,6388,1,6,3,0,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Junior,High,More than 10
+0,1,3,1,3,4,11244,0,5,4,5,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Middle,Very High,9-10
+0,2,2,0,4,4,16032,0,2,3,14,3,Middle-age (45-59),Female,Travel Frequently,No,Better,Medium,Senior,Very High,3-4
+1,1,1,1,1,1,2362,0,2,1,9,2,Adult (26-44),Male,Travel Rarely,No,Bad,Low,Entry,Low,3-4
+0,1,4,1,4,1,16328,0,1,4,20,2,Adult (26-44),Male,Travel Rarely,No,Best,Very High,Senior,Low,1-2
+0,1,2,0,3,2,8376,0,3,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Middle,Medium,5-6
+0,1,3,0,4,2,16606,0,2,4,13,3,Middle-age (45-59),Female,Travel Rarely,No,Best,High,Senior,Medium,3-4
+0,1,4,0,3,2,8606,0,3,1,11,2,Adult (26-44),Female,Travel Rarely,No,Bad,Very High,Middle,Medium,5-6
+0,1,1,1,2,3,2272,0,2,3,4,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Low,Junior,High,3-4
+1,1,4,1,1,1,2018,0,3,1,5,2,Adult (26-44),Male,Travel Rarely,No,Bad,Very High,Entry,Low,5-6
+0,1,4,1,3,3,7083,1,3,3,10,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Middle,High,5-6
+1,2,4,0,1,3,4084,0,2,1,7,2,Adult (26-44),Female,Travel Frequently,No,Bad,Very High,Entry,High,3-4
+0,2,3,1,4,4,14411,1,2,3,32,3,Middle-age (45-59),Male,Travel Frequently,Yes,Better,High,Senior,Very High,3-4
+0,1,2,1,1,3,2308,1,4,3,11,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Entry,High,7-8
+0,1,3,1,1,2,4841,0,3,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Medium,5-6
+0,1,1,1,2,4,4285,0,2,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Very High,3-4
+0,1,3,0,2,1,9715,0,3,3,7,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Low,5-6
+0,1,4,1,2,2,4320,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Medium,3-4
+0,1,4,1,1,4,2132,0,3,3,5,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Entry,Very High,5-6
+0,2,4,1,3,4,10124,1,3,1,20,2,Adult (26-44),Male,Travel Frequently,Yes,Bad,Very High,Middle,Very High,5-6
+0,1,1,1,2,1,5473,0,5,4,8,2,Adult (26-44),Male,Travel Rarely,No,Best,Low,Junior,Low,9-10
+0,1,2,1,2,3,5207,1,3,3,15,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Junior,High,5-6
+0,1,3,1,4,4,16437,1,2,3,21,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Senior,Very High,3-4
+0,1,3,1,1,1,2296,0,3,3,1,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,Low,5-6
+0,3,4,1,2,4,4069,1,2,3,2,2,Adult (26-44),Male,Non-Travel,Yes,Better,Very High,Junior,Very High,3-4
+0,1,1,1,3,2,7441,0,4,3,10,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Middle,Medium,7-8
+0,1,2,0,1,3,2430,0,5,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,High,9-10
+0,1,4,0,2,2,5878,0,2,3,7,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,Medium,3-4
+0,1,3,1,1,4,2644,1,3,2,3,2,Adult (26-44),Male,Travel Rarely,Yes,Good,High,Entry,Very High,5-6
+0,1,3,0,2,3,6439,0,2,3,8,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Junior,High,3-4
+0,1,3,1,1,3,2451,0,2,2,1,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Entry,High,3-4
+0,1,1,1,2,1,6392,0,6,1,2,2,Adult (26-44),Male,Travel Rarely,No,Bad,Low,Junior,Low,More than 10
+1,1,2,1,2,1,9714,0,4,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Low,7-8
+0,2,3,1,2,3,6077,0,2,3,6,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Junior,High,3-4
+0,1,4,1,1,1,2450,0,3,3,3,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Low,5-6
+0,1,3,1,3,2,9250,0,3,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Middle,Medium,5-6
+1,1,1,0,1,1,2074,1,2,3,1,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Low,Entry,Low,3-4
+1,1,3,0,3,4,10169,0,4,3,33,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Middle,Very High,7-8
+1,1,3,1,2,2,4855,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Medium,3-4
+0,3,4,1,2,1,4087,0,3,2,6,2,Adult (26-44),Male,Non-Travel,No,Good,Very High,Junior,Low,5-6
+0,1,3,0,1,1,2367,0,3,2,8,3,Middle-age (45-59),Female,Travel Rarely,No,Good,High,Entry,Low,5-6
+0,1,1,1,1,4,2972,0,4,1,1,2,Adult (26-44),Male,Travel Rarely,No,Bad,Low,Entry,Very High,7-8
+0,1,3,1,5,4,19586,0,3,3,36,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Executive,Very High,5-6
+0,1,2,1,2,4,5484,0,3,2,2,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Junior,Very High,5-6
+0,1,1,0,1,4,2061,0,5,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Entry,Very High,9-10
+0,1,3,1,2,2,9924,0,3,3,9,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Medium,5-6
+0,1,2,0,2,2,4198,0,5,4,3,2,Adult (26-44),Female,Travel Rarely,No,Best,Medium,Junior,Medium,9-10
+0,1,2,0,2,3,6815,0,5,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,High,9-10
+0,1,2,1,1,1,4723,1,3,3,10,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Entry,Low,5-6
+0,1,1,0,2,3,6142,1,4,3,5,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Low,Junior,High,7-8
+0,1,4,1,3,3,8237,0,3,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Middle,High,5-6
+0,2,1,1,2,4,8853,0,0,4,6,2,Adult (26-44),Male,Travel Frequently,No,Best,Low,Junior,Very High,No Training
+0,1,3,1,5,3,19331,1,2,3,1,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,High,Executive,High,3-4
+0,1,4,1,1,3,2073,0,2,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Very High,Entry,High,3-4
+0,2,1,1,2,1,5562,1,3,3,3,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Low,Junior,Low,5-6
+0,1,4,1,5,4,19613,0,2,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Executive,Very High,3-4
+0,1,2,1,2,3,3407,0,3,2,10,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Junior,High,5-6
+0,2,4,1,2,3,5063,0,3,2,8,2,Adult (26-44),Male,Travel Frequently,No,Good,Very High,Junior,High,5-6
+0,1,4,0,2,1,4639,0,2,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,Low,3-4
+0,1,4,1,1,2,4876,0,0,3,6,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Medium,No Training
+0,1,3,1,1,4,2690,0,5,2,1,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Entry,Very High,9-10
+0,1,4,1,4,1,17567,0,5,1,26,3,Middle-age (45-59),Male,Travel Rarely,No,Bad,Very High,Senior,Low,9-10
+1,1,3,1,1,2,2408,1,3,3,1,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Entry,Medium,5-6
+0,3,2,0,1,3,2814,1,2,2,4,1,Young Adult (18-25),Female,Non-Travel,Yes,Good,Medium,Entry,High,3-4
+0,2,2,1,4,3,11245,1,3,3,30,3,Middle-age (45-59),Male,Travel Frequently,Yes,Better,Medium,Senior,High,5-6
+0,1,2,0,1,4,3312,0,3,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,Very High,5-6
+0,1,2,0,5,4,19049,1,4,2,22,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Medium,Executive,Very High,7-8
+0,1,2,1,1,2,2141,0,3,2,6,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Entry,Medium,5-6
+0,1,3,0,2,1,5769,1,3,3,10,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Junior,Low,5-6
+0,3,1,1,2,1,4385,0,2,3,10,3,Middle-age (45-59),Male,Non-Travel,No,Better,Low,Junior,Low,3-4
+0,2,4,1,2,1,5332,0,3,3,5,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Junior,Low,5-6
+0,1,3,0,2,3,4663,1,2,3,3,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Junior,High,3-4
+0,2,3,1,2,4,4724,0,3,3,9,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Junior,Very High,5-6
+0,1,3,0,1,1,3211,0,3,2,9,3,Middle-age (45-59),Female,Travel Rarely,No,Good,High,Entry,Low,5-6
+0,1,2,1,2,1,5377,0,3,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Low,5-6
+0,1,4,1,1,1,4066,0,3,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Low,5-6
+0,1,2,1,2,1,5208,0,2,3,16,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Low,3-4
+0,1,2,0,2,1,4877,0,5,2,5,2,Adult (26-44),Female,Travel Rarely,No,Good,Medium,Junior,Low,9-10
+0,1,3,1,1,4,3117,0,2,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,Very High,3-4
+1,2,2,0,1,4,1569,1,2,4,0,1,Young Adult (18-25),Female,Travel Frequently,Yes,Best,Medium,Entry,Very High,3-4
+0,1,4,0,5,3,19658,0,2,3,5,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Executive,High,3-4
+0,1,3,1,2,3,3069,0,3,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,High,5-6
+0,1,1,0,3,3,10435,0,2,3,18,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Middle,High,3-4
+0,3,3,0,2,3,4148,0,5,3,14,2,Adult (26-44),Female,Non-Travel,No,Better,High,Junior,High,9-10
+0,1,3,1,2,3,5768,0,2,2,4,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Junior,High,3-4
+0,2,1,0,2,3,5042,0,2,1,9,2,Adult (26-44),Female,Travel Frequently,No,Bad,Low,Junior,High,3-4
+0,1,4,0,2,4,5770,0,3,3,10,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Junior,Very High,5-6
+0,1,4,0,3,3,7756,1,6,4,5,2,Adult (26-44),Female,Travel Rarely,Yes,Best,Very High,Middle,High,More than 10
+1,1,4,1,3,1,10306,0,3,3,13,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Middle,Low,5-6
+0,1,2,0,1,2,3936,0,2,1,8,2,Adult (26-44),Female,Travel Rarely,No,Bad,Medium,Entry,Medium,3-4
+0,1,3,0,3,4,7945,1,2,2,4,2,Adult (26-44),Female,Travel Rarely,Yes,Good,High,Middle,Very High,3-4
+0,2,1,1,2,4,5743,1,3,3,10,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Low,Junior,Very High,5-6
+0,2,3,1,4,4,15202,0,3,3,2,3,Middle-age (45-59),Male,Travel Frequently,No,Better,High,Senior,Very High,5-6
+1,1,1,1,2,4,5440,1,2,2,2,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Low,Junior,Very High,3-4
+0,2,1,0,1,4,3760,1,2,3,6,1,Young Adult (18-25),Female,Travel Frequently,Yes,Better,Low,Entry,Very High,3-4
+0,1,2,0,1,3,3517,0,0,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,High,No Training
+0,2,4,1,1,4,2580,0,0,2,4,2,Adult (26-44),Male,Travel Frequently,No,Good,Very High,Entry,Very High,No Training
+1,1,1,1,1,1,2166,1,3,1,4,2,Adult (26-44),Male,Travel Rarely,Yes,Bad,Low,Entry,Low,5-6
+0,1,3,1,2,3,5869,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,High,3-4
+0,1,2,0,3,1,8008,0,6,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Middle,Low,More than 10
+0,2,4,1,2,3,5206,0,6,3,7,1,Young Adult (18-25),Male,Travel Frequently,No,Better,Very High,Junior,High,More than 10
+0,1,4,1,2,2,5295,0,3,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Medium,5-6
+0,1,1,0,4,2,16413,0,2,3,4,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Low,Senior,Medium,3-4
+0,1,4,0,3,1,13269,0,3,3,14,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Middle,Low,5-6
+0,1,3,0,1,3,2783,0,3,3,2,1,Young Adult (18-25),Female,Travel Rarely,No,Better,High,Entry,High,5-6
+0,1,4,0,2,2,5433,0,2,3,11,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,Medium,3-4
+0,1,1,1,1,2,2013,0,4,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,Medium,7-8
+0,1,3,0,4,3,13966,1,3,3,15,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Senior,High,5-6
+0,3,4,0,2,3,4374,0,6,3,3,2,Adult (26-44),Female,Non-Travel,No,Better,Very High,Junior,High,More than 10
+0,1,4,1,2,1,6842,0,3,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Low,5-6
+0,1,2,0,4,3,17426,0,6,3,10,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Medium,Senior,High,More than 10
+0,1,3,1,4,3,17603,0,3,3,14,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Senior,High,5-6
+1,2,4,1,2,4,4581,1,2,4,11,2,Adult (26-44),Male,Travel Frequently,Yes,Best,Very High,Junior,Very High,3-4
+0,2,4,1,2,4,4735,0,4,4,13,2,Adult (26-44),Male,Travel Frequently,No,Best,Very High,Junior,Very High,7-8
+0,1,1,1,2,2,4187,1,3,2,10,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Low,Junior,Medium,5-6
+0,1,4,1,2,4,5505,0,5,3,6,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,9-10
+0,1,4,1,2,2,5470,0,4,2,9,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Junior,Medium,7-8
+0,1,1,0,2,4,5476,0,2,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Junior,Very High,3-4
+0,1,4,0,1,1,2587,1,2,2,2,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,Very High,Entry,Low,3-4
+0,2,4,0,1,2,2440,0,3,3,4,2,Adult (26-44),Female,Travel Frequently,No,Better,Very High,Entry,Medium,5-6
+0,1,2,0,4,2,15972,0,2,3,3,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Medium,Senior,Medium,3-4
+0,1,3,1,4,3,15379,0,2,3,8,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Senior,High,3-4
+0,1,4,1,3,3,7082,1,2,3,2,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Middle,High,3-4
+0,1,4,1,1,1,2728,0,3,3,2,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Very High,Entry,Low,5-6
+0,3,3,0,2,4,5368,1,2,3,6,2,Adult (26-44),Female,Non-Travel,Yes,Better,High,Junior,Very High,3-4
+0,1,1,1,2,3,5347,0,2,2,3,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Junior,High,3-4
+0,1,3,0,1,4,3195,1,2,3,2,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Entry,Very High,3-4
+1,1,4,1,1,3,3989,1,2,3,5,1,Young Adult (18-25),Male,Travel Rarely,Yes,Better,Very High,Entry,High,3-4
+0,1,4,0,1,3,3306,0,5,2,0,2,Adult (26-44),Female,Travel Rarely,No,Good,Very High,Entry,High,9-10
+0,1,2,1,3,4,7005,0,2,3,4,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Medium,Middle,Very High,3-4
+1,2,4,0,1,3,2655,1,3,3,9,3,Middle-age (45-59),Female,Travel Frequently,Yes,Better,Very High,Entry,High,5-6
+1,1,4,1,1,2,1393,0,2,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Medium,3-4
+0,3,4,1,1,4,2570,0,5,3,7,2,Adult (26-44),Male,Non-Travel,No,Better,Very High,Entry,Very High,9-10
+0,1,1,1,1,2,3537,0,1,3,4,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Entry,Medium,1-2
+0,1,2,1,2,4,3986,0,3,4,15,2,Adult (26-44),Male,Travel Rarely,No,Best,Medium,Junior,Very High,5-6
+0,1,3,1,3,4,10883,0,2,4,1,4,Old age (60+),Male,Travel Rarely,No,Best,High,Middle,Very High,3-4
+0,1,2,1,1,2,2028,0,6,3,14,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Medium,More than 10
+0,2,3,1,2,4,9525,0,2,2,6,2,Adult (26-44),Male,Travel Frequently,No,Good,High,Junior,Very High,3-4
+0,1,2,0,1,4,2929,0,3,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,Very High,5-6
+1,1,3,1,1,4,2275,1,2,3,3,1,Young Adult (18-25),Male,Travel Rarely,Yes,Better,High,Entry,Very High,3-4
+0,1,3,0,3,4,7879,1,2,3,8,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Middle,Very High,3-4
+0,2,1,1,1,4,4930,1,2,4,5,2,Adult (26-44),Male,Travel Frequently,Yes,Best,Low,Entry,Very High,3-4
+0,1,4,1,2,4,7847,1,3,3,10,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Junior,Very High,5-6
+0,1,3,1,1,3,4401,0,1,3,5,1,Young Adult (18-25),Male,Travel Rarely,No,Better,High,Entry,High,1-2
+0,1,4,1,3,3,9241,0,3,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Middle,High,5-6
+0,1,4,0,1,3,2974,0,2,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,High,3-4
+0,1,3,0,2,4,4502,0,2,2,13,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Junior,Very High,3-4
+0,3,3,1,3,3,10748,0,3,2,23,3,Middle-age (45-59),Male,Non-Travel,No,Good,High,Middle,High,5-6
+1,1,4,1,1,3,1555,0,2,3,1,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Very High,Entry,High,3-4
+1,2,3,1,4,3,12936,0,3,1,23,3,Middle-age (45-59),Male,Travel Frequently,No,Bad,High,Senior,High,5-6
+0,1,4,1,1,3,2305,0,3,4,3,2,Adult (26-44),Male,Travel Rarely,No,Best,Very High,Entry,High,5-6
+0,1,4,0,4,2,16704,0,2,3,21,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Senior,Medium,3-4
+0,2,1,1,1,3,3433,0,3,2,5,2,Adult (26-44),Male,Travel Frequently,No,Good,Low,Entry,High,5-6
+0,1,2,1,1,3,3477,0,2,4,5,2,Adult (26-44),Male,Travel Rarely,No,Best,Medium,Entry,High,3-4
+0,3,3,1,2,2,6430,0,4,3,3,2,Adult (26-44),Male,Non-Travel,No,Better,High,Junior,Medium,7-8
+0,1,2,0,2,1,6516,1,3,3,1,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Medium,Junior,Low,5-6
+0,1,2,1,1,1,3907,0,2,4,6,1,Young Adult (18-25),Male,Travel Rarely,No,Best,Medium,Entry,Low,3-4
+0,1,3,1,2,2,5562,0,3,3,10,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Junior,Medium,5-6
+0,1,4,1,2,3,6883,0,3,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,High,5-6
+0,1,2,1,1,4,2862,0,2,2,10,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Entry,Very High,3-4
+0,3,3,1,2,2,4978,0,3,1,1,3,Middle-age (45-59),Male,Non-Travel,No,Bad,High,Junior,Medium,5-6
+0,1,3,1,3,4,10368,1,5,2,10,3,Middle-age (45-59),Male,Travel Rarely,Yes,Good,High,Middle,Very High,9-10
+1,1,2,1,2,1,6134,1,3,3,2,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Junior,Low,5-6
+1,1,1,1,2,2,6735,0,2,3,0,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Medium,3-4
+0,1,3,0,1,2,3295,0,3,1,3,1,Young Adult (18-25),Female,Travel Rarely,No,Bad,High,Entry,Medium,5-6
+0,2,4,0,2,4,5238,0,3,2,5,2,Adult (26-44),Female,Travel Frequently,No,Good,Very High,Junior,Very High,5-6
+0,3,4,1,2,4,6472,1,2,3,9,2,Adult (26-44),Male,Non-Travel,Yes,Better,Very High,Junior,Very High,3-4
+0,1,4,1,3,3,9610,0,2,1,4,2,Adult (26-44),Male,Travel Rarely,No,Bad,Very High,Middle,High,3-4
+0,1,2,1,5,2,19833,0,3,2,21,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Executive,Medium,5-6
+0,1,3,0,3,3,9756,0,2,4,5,3,Middle-age (45-59),Female,Travel Rarely,No,Best,High,Middle,High,3-4
+0,2,4,0,1,1,4968,0,2,3,9,2,Adult (26-44),Female,Travel Frequently,No,Better,Very High,Entry,Low,3-4
+0,2,1,1,1,4,2145,0,2,3,2,1,Young Adult (18-25),Male,Travel Frequently,No,Better,Low,Entry,Very High,3-4
+1,2,3,0,1,4,2180,0,0,2,4,2,Adult (26-44),Female,Travel Frequently,No,Good,High,Entry,Very High,No Training
+0,1,1,1,2,3,8346,0,3,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,High,5-6
+0,1,3,0,1,4,3445,0,5,2,6,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Entry,Very High,9-10
+1,1,2,0,1,2,2760,0,3,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,Medium,5-6
+0,2,4,1,2,3,6294,1,5,4,3,2,Adult (26-44),Male,Travel Frequently,Yes,Best,Very High,Junior,High,9-10
+0,1,3,1,3,1,7140,0,2,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Middle,Low,3-4
+0,1,4,1,1,4,2932,1,3,3,5,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Entry,Very High,5-6
+0,3,4,0,2,2,5147,0,2,2,11,2,Adult (26-44),Female,Non-Travel,No,Good,Very High,Junior,Medium,3-4
+0,1,4,0,2,4,4507,0,1,4,5,3,Middle-age (45-59),Female,Travel Rarely,No,Best,Very High,Junior,Very High,1-2
+1,1,1,0,3,1,8564,1,2,2,0,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Low,Middle,Low,3-4
+0,2,3,0,1,2,2468,0,4,2,6,2,Adult (26-44),Female,Travel Frequently,No,Good,High,Entry,Medium,7-8
+1,1,1,1,3,3,8161,0,2,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Middle,High,3-4
+0,1,4,0,1,1,2109,0,2,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,Low,3-4
+0,1,3,1,2,3,5294,0,3,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,High,5-6
+0,3,2,1,1,2,2718,0,3,3,7,2,Adult (26-44),Male,Non-Travel,No,Better,Medium,Entry,Medium,5-6
+0,1,2,1,2,4,5811,1,2,3,1,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Junior,Very High,3-4
+1,2,3,1,1,3,2437,1,4,3,1,2,Adult (26-44),Male,Travel Frequently,Yes,Better,High,Entry,High,7-8
+0,1,2,1,1,2,2766,0,6,2,5,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Entry,Medium,More than 10
+0,1,3,1,5,1,19038,0,2,3,1,3,Middle-age (45-59),Male,Travel Rarely,No,Better,High,Executive,Low,3-4
+0,3,4,1,2,2,3055,0,2,2,9,2,Adult (26-44),Male,Non-Travel,No,Good,Very High,Junior,Medium,3-4
+0,1,3,1,1,1,2289,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,Low,3-4
+0,3,4,1,2,3,4001,1,3,3,15,2,Adult (26-44),Male,Non-Travel,Yes,Better,Very High,Junior,High,5-6
+0,3,1,0,4,3,12965,1,2,2,3,3,Middle-age (45-59),Female,Non-Travel,Yes,Good,Low,Senior,High,3-4
+0,1,2,1,1,4,3539,0,5,3,9,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Very High,9-10
+0,1,4,0,2,4,6029,0,3,3,2,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,Very High,5-6
+1,1,2,1,1,2,2679,0,3,3,1,1,Young Adult (18-25),Male,Travel Rarely,No,Better,Medium,Entry,Medium,5-6
+0,1,4,0,1,3,3702,0,3,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,High,5-6
+1,1,3,0,1,1,2398,1,6,3,1,1,Young Adult (18-25),Female,Travel Rarely,Yes,Better,High,Entry,Low,More than 10
+0,1,1,0,2,4,5468,0,3,3,12,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Junior,Very High,5-6
+0,1,1,0,3,3,13116,0,2,3,2,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Low,Middle,High,3-4
+0,1,2,1,2,2,4189,0,2,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Medium,3-4
+0,1,3,1,5,4,19328,1,3,3,2,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,High,Executive,Very High,5-6
+0,1,4,1,3,1,8321,1,1,3,12,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Middle,Low,1-2
+1,2,3,1,1,2,2342,1,2,2,5,2,Adult (26-44),Male,Travel Frequently,Yes,Good,High,Entry,Medium,3-4
+0,1,3,1,2,2,4071,0,4,2,10,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Junior,Medium,7-8
+1,1,3,1,2,4,5813,1,2,3,10,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Junior,Very High,3-4
+0,1,4,1,1,1,3143,0,1,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Low,1-2
+0,1,3,1,1,4,2044,0,6,4,5,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Entry,Very High,More than 10
+0,1,3,1,3,3,13464,0,3,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Middle,High,5-6
+0,3,2,1,2,2,7991,0,3,3,2,3,Middle-age (45-59),Male,Non-Travel,No,Better,Medium,Junior,Medium,5-6
+0,1,3,0,1,1,3377,0,5,2,4,2,Adult (26-44),Female,Travel Rarely,No,Good,High,Entry,Low,9-10
+0,1,2,1,2,1,5538,0,2,2,0,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Junior,Low,3-4
+0,3,2,1,2,4,5762,0,6,3,7,2,Adult (26-44),Male,Non-Travel,No,Better,Medium,Junior,Very High,More than 10
+0,3,1,1,1,2,2592,0,3,3,11,2,Adult (26-44),Male,Non-Travel,No,Better,Low,Entry,Medium,5-6
+1,2,4,1,2,1,5346,0,3,2,7,2,Adult (26-44),Male,Travel Frequently,No,Good,Very High,Junior,Low,5-6
+1,1,4,1,2,1,4213,0,4,1,10,2,Adult (26-44),Male,Travel Rarely,No,Bad,Very High,Junior,Low,7-8
+0,2,3,1,2,4,4127,0,6,3,2,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Junior,Very High,More than 10
+0,3,1,1,1,3,2438,0,2,2,3,2,Adult (26-44),Male,Non-Travel,No,Good,Low,Entry,High,3-4
+0,1,2,1,2,2,6870,0,3,1,3,2,Adult (26-44),Male,Travel Rarely,No,Bad,Medium,Junior,Medium,5-6
+0,1,3,0,3,3,10447,1,3,4,22,2,Adult (26-44),Female,Travel Rarely,Yes,Best,High,Middle,High,5-6
+0,1,1,0,3,3,9667,0,3,3,7,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Middle,High,5-6
+1,1,4,0,1,2,2148,1,3,3,5,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Entry,Medium,5-6
+1,1,4,0,2,2,8926,0,2,4,9,3,Middle-age (45-59),Female,Travel Rarely,No,Best,Very High,Junior,Medium,3-4
+0,1,3,0,2,4,6513,0,3,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Very High,5-6
+0,1,2,1,2,3,6799,0,5,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,High,9-10
+0,3,2,1,4,2,16291,0,0,2,16,3,Middle-age (45-59),Male,Non-Travel,No,Good,Medium,Senior,Medium,No Training
+0,1,2,1,1,3,2705,0,2,4,5,2,Adult (26-44),Male,Travel Rarely,No,Best,Medium,Entry,High,3-4
+0,1,3,0,3,2,10333,1,4,3,22,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Middle,Medium,7-8
+0,1,2,0,2,1,4448,0,3,3,7,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,Low,5-6
+0,1,4,0,2,4,6854,0,2,2,7,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Very High,Junior,Very High,3-4
+0,2,1,0,3,1,9637,0,3,3,3,2,Adult (26-44),Female,Travel Frequently,No,Better,Low,Middle,Low,5-6
+0,1,3,0,1,1,3591,0,3,3,3,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Low,5-6
+0,1,2,0,2,4,5405,1,4,2,4,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Medium,Junior,Very High,7-8
+0,1,3,1,2,4,4684,0,4,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Very High,7-8
+0,2,1,1,4,3,15787,1,3,3,2,3,Middle-age (45-59),Male,Travel Frequently,Yes,Better,Low,Senior,High,5-6
+0,3,2,0,1,3,1514,0,4,1,0,1,Young Adult (18-25),Female,Non-Travel,No,Bad,Medium,Entry,High,7-8
+1,1,4,1,1,1,2956,0,4,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Low,7-8
+1,1,1,1,1,1,2335,1,3,3,2,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Low,Entry,Low,5-6
+0,3,3,0,2,3,5154,0,3,4,8,3,Middle-age (45-59),Female,Non-Travel,No,Best,High,Junior,High,5-6
+0,1,4,0,2,2,6962,1,2,3,1,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Junior,Medium,3-4
+0,2,1,1,2,4,5675,0,5,3,7,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Junior,Very High,9-10
+0,2,4,0,1,4,2379,1,3,2,5,2,Adult (26-44),Female,Travel Frequently,Yes,Good,Very High,Entry,Very High,5-6
+0,2,4,1,1,4,3812,0,3,4,11,2,Adult (26-44),Male,Travel Frequently,No,Best,Very High,Entry,Very High,5-6
+0,2,4,1,2,4,4648,0,2,4,0,2,Adult (26-44),Male,Travel Frequently,No,Best,Very High,Junior,Very High,3-4
+0,3,3,1,1,3,2936,0,1,2,6,2,Adult (26-44),Male,Non-Travel,No,Good,High,Entry,High,1-2
+0,1,2,0,1,3,2105,0,2,3,2,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Medium,Entry,High,3-4
+0,1,4,1,3,4,8578,0,4,2,9,3,Middle-age (45-59),Male,Travel Rarely,No,Good,Very High,Middle,Very High,7-8
+0,3,3,1,1,4,2706,0,2,3,3,2,Adult (26-44),Male,Non-Travel,No,Better,High,Entry,Very High,3-4
+0,1,4,1,2,3,6384,0,3,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,High,5-6
+0,1,4,1,1,3,3968,0,3,3,0,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,High,5-6
+1,1,3,1,2,2,9907,1,3,2,2,2,Adult (26-44),Male,Travel Rarely,Yes,Good,High,Junior,Medium,5-6
+0,1,1,0,4,1,13225,0,5,3,19,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Low,Senior,Low,9-10
+0,1,2,0,2,3,3540,0,5,3,9,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,High,9-10
+0,1,4,1,1,2,2804,0,3,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Medium,5-6
+0,1,1,0,5,3,19392,0,2,3,16,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Executive,High,3-4
+0,1,4,1,5,2,19665,0,3,3,22,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Very High,Executive,Medium,5-6
+1,2,4,1,1,4,2439,1,3,2,1,2,Adult (26-44),Male,Travel Frequently,Yes,Good,Very High,Entry,Very High,5-6
+1,1,3,0,3,2,7314,0,2,3,8,3,Middle-age (45-59),Female,Travel Rarely,No,Better,High,Middle,Medium,3-4
+0,2,4,0,1,1,4774,0,2,2,7,2,Adult (26-44),Female,Travel Frequently,No,Good,Very High,Entry,Low,3-4
+0,1,4,1,2,4,3902,0,2,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,3-4
+0,1,2,1,1,4,2662,0,2,4,5,3,Middle-age (45-59),Male,Travel Rarely,No,Best,Medium,Entry,Very High,3-4
+0,1,2,0,1,2,2856,0,3,3,1,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Entry,Medium,5-6
+1,1,2,1,1,4,1081,0,3,2,1,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Entry,Very High,5-6
+1,1,4,1,1,2,2472,1,2,3,1,1,Young Adult (18-25),Male,Travel Rarely,Yes,Better,Very High,Entry,Medium,3-4
+0,1,2,0,2,3,5673,1,4,3,10,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Medium,Junior,High,7-8
+0,1,2,1,2,3,4197,0,2,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,High,3-4
+0,1,3,1,3,4,9713,1,3,3,5,2,Adult (26-44),Male,Travel Rarely,Yes,Better,High,Middle,Very High,5-6
+0,1,4,1,1,1,2062,0,2,3,3,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Low,3-4
+0,1,4,1,2,1,4284,1,2,3,5,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Junior,Low,3-4
+0,1,4,0,2,2,4788,1,2,3,3,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Junior,Medium,3-4
+0,1,2,0,2,4,5906,0,2,2,9,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Medium,Junior,Very High,3-4
+0,2,2,1,2,4,3886,0,2,2,10,2,Adult (26-44),Male,Travel Frequently,No,Good,Medium,Junior,Very High,3-4
+0,1,1,1,4,1,16823,0,3,3,19,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Senior,Low,5-6
+0,1,2,0,1,3,2933,1,3,2,1,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Medium,Entry,High,5-6
+0,1,1,0,2,3,6500,0,5,2,8,2,Adult (26-44),Female,Travel Rarely,No,Good,Low,Junior,High,9-10
+0,2,4,0,4,4,17174,0,3,3,22,3,Middle-age (45-59),Female,Travel Frequently,No,Better,Very High,Senior,Very High,5-6
+0,1,2,1,2,1,5033,0,5,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,Low,9-10
+1,3,4,1,1,1,2307,1,2,3,5,2,Adult (26-44),Male,Non-Travel,Yes,Better,Very High,Entry,Low,3-4
+1,1,1,1,1,4,2587,0,3,3,4,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Entry,Very High,5-6
+0,1,3,1,2,2,5507,0,1,1,4,2,Adult (26-44),Male,Travel Rarely,No,Bad,High,Junior,Medium,1-2
+0,1,3,0,2,2,4393,0,3,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Junior,Medium,5-6
+0,1,3,1,3,1,13348,0,3,4,13,2,Adult (26-44),Male,Travel Rarely,No,Best,High,Middle,Low,5-6
+0,1,3,0,2,4,6583,1,2,3,5,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Junior,Very High,3-4
+0,1,4,0,2,4,8103,1,3,2,4,2,Adult (26-44),Female,Travel Rarely,Yes,Good,Very High,Junior,Very High,5-6
+0,1,1,0,1,3,3978,0,0,2,2,2,Adult (26-44),Female,Travel Rarely,No,Good,Low,Entry,High,No Training
+0,2,3,1,1,4,2544,0,3,3,7,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Entry,Very High,5-6
+0,2,2,1,2,3,5399,0,3,3,4,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Medium,Junior,High,5-6
+0,1,2,1,2,3,5487,0,2,2,10,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Junior,High,3-4
+0,2,3,1,2,4,6834,1,2,3,7,2,Adult (26-44),Male,Travel Frequently,Yes,Better,High,Junior,Very High,3-4
+1,2,3,1,1,1,1091,0,3,3,1,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Entry,Low,5-6
+0,3,1,0,2,3,5736,0,1,3,3,2,Adult (26-44),Female,Non-Travel,No,Better,Low,Junior,High,1-2
+0,1,2,1,1,2,2226,0,3,2,5,2,Adult (26-44),Male,Travel Rarely,No,Good,Medium,Entry,Medium,5-6
+0,2,3,1,2,4,5747,1,3,3,15,2,Adult (26-44),Male,Travel Frequently,Yes,Better,High,Junior,Very High,5-6
+1,1,4,0,2,3,9854,1,0,3,2,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Junior,High,No Training
+0,3,3,1,2,2,5467,0,4,4,8,3,Middle-age (45-59),Male,Non-Travel,No,Best,High,Junior,Medium,7-8
+0,1,4,0,2,1,5380,0,3,3,0,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Junior,Low,5-6
+0,1,1,1,2,1,5151,0,3,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Low,5-6
+0,2,4,0,2,2,2133,1,3,3,20,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Very High,Junior,Medium,5-6
+0,1,4,0,4,4,17875,1,2,2,1,3,Middle-age (45-59),Female,Travel Rarely,Yes,Good,Very High,Senior,Very High,3-4
+1,2,1,0,1,3,2432,1,2,3,4,2,Adult (26-44),Female,Travel Frequently,Yes,Better,Low,Entry,High,3-4
+0,1,2,1,1,4,4771,0,0,4,5,2,Adult (26-44),Male,Travel Rarely,No,Best,Medium,Entry,Very High,No Training
+0,2,2,1,5,4,19161,0,3,3,5,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Medium,Executive,Very High,5-6
+0,1,2,1,2,4,5087,1,4,3,0,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Junior,Very High,7-8
+1,2,1,0,1,2,2863,0,2,3,1,2,Adult (26-44),Female,Travel Frequently,No,Better,Low,Entry,Medium,3-4
+0,1,2,1,2,1,5561,0,2,1,5,2,Adult (26-44),Male,Travel Rarely,No,Bad,Medium,Junior,Low,3-4
+0,3,3,1,1,3,2144,0,3,2,5,2,Adult (26-44),Male,Non-Travel,No,Good,High,Entry,High,5-6
+0,3,3,1,1,1,3065,1,3,4,4,2,Adult (26-44),Male,Non-Travel,Yes,Best,High,Entry,Low,5-6
+0,3,1,1,1,2,2810,0,3,3,5,2,Adult (26-44),Male,Non-Travel,No,Better,Low,Entry,Medium,5-6
+0,1,1,1,3,4,9888,0,3,2,14,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Middle,Very High,5-6
+0,1,4,1,3,3,8628,0,2,2,8,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Middle,High,3-4
+0,1,3,1,1,1,2867,0,6,2,7,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Entry,Low,More than 10
+0,1,1,1,2,1,5373,0,5,2,5,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Junior,Low,9-10
+0,3,3,0,2,4,6667,0,6,3,5,2,Adult (26-44),Female,Non-Travel,No,Better,High,Junior,Very High,More than 10
+0,2,4,1,2,1,5003,0,6,3,10,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Junior,Low,More than 10
+1,1,3,1,1,4,2367,0,2,2,4,2,Adult (26-44),Male,Travel Rarely,No,Good,High,Entry,Very High,3-4
+0,1,1,1,1,1,2858,0,3,2,1,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Entry,Low,5-6
+0,1,3,0,2,4,5204,1,2,3,10,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Junior,Very High,3-4
+0,1,4,1,2,4,4105,0,5,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,9-10
+0,1,4,1,2,4,9679,0,1,3,1,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Very High,1-2
+1,2,1,1,2,4,5617,1,4,3,10,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Low,Junior,Very High,7-8
+1,1,1,1,3,1,10448,1,2,2,2,3,Middle-age (45-59),Male,Travel Rarely,Yes,Good,Low,Middle,Low,3-4
+0,1,1,0,2,3,2897,0,6,2,4,3,Middle-age (45-59),Female,Travel Rarely,No,Good,Low,Junior,High,More than 10
+0,2,4,1,2,3,5968,0,2,3,9,2,Adult (26-44),Male,Travel Frequently,No,Better,Very High,Junior,High,3-4
+0,1,1,1,3,3,7510,0,1,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Middle,High,1-2
+0,2,4,1,1,2,2991,1,2,3,6,2,Adult (26-44),Male,Travel Frequently,Yes,Better,Very High,Entry,Medium,3-4
+0,1,3,1,5,2,19636,1,0,3,10,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,High,Executive,Medium,No Training
+0,1,4,0,1,4,1129,1,4,3,1,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Very High,Entry,Very High,7-8
+0,1,2,1,4,1,13341,0,3,3,20,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Senior,Low,5-6
+0,3,4,1,2,3,4332,0,2,3,20,2,Adult (26-44),Male,Non-Travel,No,Better,Very High,Junior,High,3-4
+0,3,3,0,3,3,11031,0,2,4,11,2,Adult (26-44),Female,Non-Travel,No,Best,High,Middle,High,3-4
+0,1,3,0,2,1,4440,1,3,3,5,3,Middle-age (45-59),Female,Travel Rarely,Yes,Better,High,Junior,Low,5-6
+0,1,2,1,2,3,4617,0,2,2,4,1,Young Adult (18-25),Male,Travel Rarely,No,Good,Medium,Junior,High,3-4
+0,1,4,1,1,4,2647,0,6,4,5,1,Young Adult (18-25),Male,Travel Rarely,No,Best,Very High,Entry,Very High,More than 10
+0,2,4,0,2,3,6323,0,2,4,10,2,Adult (26-44),Female,Travel Frequently,No,Best,Very High,Junior,High,3-4
+0,1,2,0,2,2,5677,0,4,3,11,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Junior,Medium,7-8
+0,1,3,0,1,2,2187,0,3,3,2,1,Young Adult (18-25),Female,Travel Rarely,No,Better,High,Entry,Medium,5-6
+0,1,4,1,1,2,3748,0,6,2,12,2,Adult (26-44),Male,Travel Rarely,No,Good,Very High,Entry,Medium,More than 10
+0,1,4,1,1,3,3977,1,2,2,2,1,Young Adult (18-25),Male,Travel Rarely,Yes,Good,Very High,Entry,High,3-4
+0,1,1,1,3,3,8633,0,3,3,17,3,Middle-age (45-59),Male,Travel Rarely,No,Better,Low,Middle,High,5-6
+0,3,2,1,1,3,2008,0,2,2,1,2,Adult (26-44),Male,Non-Travel,No,Good,Medium,Entry,High,3-4
+0,1,4,1,2,2,4440,0,3,3,15,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Junior,Medium,5-6
+0,1,1,1,1,3,3067,0,1,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Entry,High,1-2
+0,2,1,1,2,3,5321,0,1,3,8,2,Adult (26-44),Male,Travel Frequently,No,Better,Low,Junior,High,1-2
+0,1,4,1,2,1,5410,1,3,2,4,2,Adult (26-44),Male,Travel Rarely,Yes,Good,Very High,Junior,Low,5-6
+0,1,4,1,1,4,2782,0,3,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Very High,5-6
+0,3,3,0,3,2,11957,0,3,1,13,3,Middle-age (45-59),Female,Non-Travel,No,Bad,High,Middle,Medium,5-6
+0,1,4,1,1,3,2660,1,3,3,2,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Entry,High,5-6
+0,1,4,1,1,3,3375,0,2,4,3,1,Young Adult (18-25),Male,Travel Rarely,No,Best,Very High,Entry,High,3-4
+0,1,2,1,2,3,5098,0,5,3,10,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Junior,High,9-10
+0,1,2,0,2,4,4878,1,6,3,9,2,Adult (26-44),Female,Travel Rarely,Yes,Better,Medium,Junior,Very High,More than 10
+0,1,3,0,1,2,2837,0,3,3,6,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Medium,5-6
+0,1,1,1,1,4,2406,0,3,2,1,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Entry,Very High,5-6
+0,1,2,1,1,2,2269,0,2,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,Medium,Entry,Medium,3-4
+0,1,1,1,2,4,4108,0,2,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Low,Junior,Very High,3-4
+0,1,2,0,3,3,13206,0,3,3,18,2,Adult (26-44),Female,Travel Rarely,No,Better,Medium,Middle,High,5-6
+0,1,3,0,3,4,10422,0,3,3,14,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Middle,Very High,5-6
+0,1,3,0,3,4,13744,1,2,3,16,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Middle,Very High,3-4
+0,1,1,0,2,3,4907,1,3,2,5,1,Young Adult (18-25),Female,Travel Rarely,Yes,Good,Low,Junior,High,5-6
+0,3,1,1,1,4,3482,0,3,2,9,3,Middle-age (45-59),Male,Non-Travel,No,Good,Low,Entry,Very High,5-6
+0,1,2,1,1,4,2436,1,2,3,4,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Entry,Very High,3-4
+0,1,3,1,1,1,2380,1,6,3,2,1,Young Adult (18-25),Male,Travel Rarely,Yes,Better,High,Entry,Low,More than 10
+0,3,4,1,5,4,19431,0,3,2,6,2,Adult (26-44),Male,Non-Travel,No,Good,Very High,Executive,Very High,5-6
+1,2,4,1,1,1,1790,0,3,2,1,1,Young Adult (18-25),Male,Travel Frequently,No,Good,Very High,Entry,Low,5-6
+0,1,1,0,3,4,7644,0,2,3,9,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Middle,Very High,3-4
+0,2,4,0,2,2,5131,0,3,3,4,2,Adult (26-44),Female,Travel Frequently,No,Better,Very High,Junior,Medium,5-6
+0,3,3,1,2,3,6306,0,2,2,13,3,Middle-age (45-59),Male,Non-Travel,No,Good,High,Junior,High,3-4
+1,1,1,1,1,4,4787,1,3,4,2,2,Adult (26-44),Male,Travel Rarely,Yes,Best,Low,Entry,Very High,5-6
+0,1,1,1,5,3,18880,0,2,2,22,2,Adult (26-44),Male,Travel Rarely,No,Good,Low,Executive,High,3-4
+1,1,4,1,1,3,2339,0,4,1,10,3,Middle-age (45-59),Male,Travel Rarely,No,Bad,Very High,Entry,High,7-8
+0,1,1,0,4,2,13570,0,3,3,20,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Senior,Medium,5-6
+0,1,4,0,2,3,6712,0,2,3,8,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Junior,High,3-4
+0,3,4,1,2,4,5406,0,4,2,15,2,Adult (26-44),Male,Non-Travel,No,Good,Very High,Junior,Very High,7-8
+0,1,3,1,2,2,8938,0,5,3,5,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Junior,Medium,9-10
+0,1,4,1,1,1,2439,0,4,3,4,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Entry,Low,7-8
+0,1,3,0,3,4,8837,1,2,3,9,2,Adult (26-44),Female,Travel Rarely,Yes,Better,High,Middle,Very High,3-4
+0,1,1,0,2,4,5343,0,1,3,10,2,Adult (26-44),Female,Travel Rarely,No,Better,Low,Junior,Very High,1-2
+1,2,2,1,2,3,6728,0,3,3,6,3,Middle-age (45-59),Male,Travel Frequently,No,Better,Medium,Junior,High,5-6
+0,1,2,0,2,4,6652,0,2,2,6,2,Adult (26-44),Female,Travel Rarely,No,Good,Medium,Junior,Very High,3-4
+0,1,4,0,2,3,4850,0,3,3,5,3,Middle-age (45-59),Female,Travel Rarely,No,Better,Very High,Junior,High,5-6
+0,1,3,1,1,3,2809,0,2,3,2,2,Adult (26-44),Male,Travel Rarely,No,Better,High,Entry,High,3-4
+0,2,3,1,2,3,5689,1,2,4,10,2,Adult (26-44),Male,Travel Frequently,Yes,Best,High,Junior,High,3-4
+0,1,3,0,1,3,2001,0,2,3,5,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,High,3-4
+0,1,3,0,1,4,2977,0,5,3,4,2,Adult (26-44),Female,Travel Rarely,No,Better,High,Entry,Very High,9-10
+0,1,4,1,2,2,4025,1,2,3,4,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Very High,Junior,Medium,3-4
+0,1,4,0,1,1,3785,0,3,1,5,2,Adult (26-44),Female,Travel Rarely,No,Bad,Very High,Entry,Low,5-6
+1,1,4,1,3,1,10854,1,3,3,3,3,Middle-age (45-59),Male,Travel Rarely,Yes,Better,Very High,Middle,Low,5-6
+0,1,2,0,4,4,12031,0,2,2,20,2,Adult (26-44),Female,Travel Rarely,No,Good,Medium,Senior,Very High,3-4
+0,3,2,1,2,1,9936,0,2,3,9,2,Adult (26-44),Male,Non-Travel,No,Better,Medium,Junior,Low,3-4
+0,1,4,0,1,3,2966,0,2,3,4,2,Adult (26-44),Female,Travel Rarely,No,Better,Very High,Entry,High,3-4
+0,2,3,1,2,4,2571,0,3,3,5,2,Adult (26-44),Male,Travel Frequently,No,Better,High,Junior,Very High,5-6
+0,1,4,1,3,1,9991,0,5,3,7,2,Adult (26-44),Male,Travel Rarely,No,Better,Very High,Middle,Low,9-10
+0,1,2,1,2,2,6142,1,0,3,6,2,Adult (26-44),Male,Travel Rarely,Yes,Better,Medium,Junior,Medium,No Training
+0,2,4,1,2,2,5390,0,3,2,9,3,Middle-age (45-59),Male,Travel Frequently,No,Good,Very High,Junior,Medium,5-6
+0,1,2,1,2,3,4404,0,3,4,4,2,Adult (26-44),Male,Travel Rarely,No,Best,Medium,Junior,High,5-6

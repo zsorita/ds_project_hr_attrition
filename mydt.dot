@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="OverTime <= 0.5\nsamples = 1029\nvalue = [860, 169]\nclass = No", fillcolor="#ea9a60"] ;
+1 [label="MonthlyIncome <= 2059.5\nsamples = 736\nvalue = [662, 74]\nclass = No", fillcolor="#e88f4f"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="JobSatisfaction <= 1.5\nsamples = 25\nvalue = [15, 10]\nclass = No", fillcolor="#f6d5bd"] ;
+1 -> 2 ;
+3 [label="samples = 4\nvalue = [0, 4]\nclass = Yes", fillcolor="#399de5"] ;
+2 -> 3 ;
+4 [label="samples = 21\nvalue = [15, 6]\nclass = No", fillcolor="#efb388"] ;
+2 -> 4 ;
+5 [label="EnvironmentSatisfaction <= 1.5\nsamples = 711\nvalue = [647, 64]\nclass = No", fillcolor="#e88d4d"] ;
+1 -> 5 ;
+6 [label="samples = 153\nvalue = [126, 27]\nclass = No", fillcolor="#eb9c63"] ;
+5 -> 6 ;
+7 [label="samples = 558\nvalue = [521, 37]\nclass = No", fillcolor="#e78a47"] ;
+5 -> 7 ;
+8 [label="MonthlyIncome <= 3779.0\nsamples = 293\nvalue = [198, 95]\nclass = No", fillcolor="#f1bd98"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="EnvironmentSatisfaction <= 1.5\nsamples = 107\nvalue = [48, 59]\nclass = Yes", fillcolor="#daedfa"] ;
+8 -> 9 ;
+10 [label="samples = 17\nvalue = [3, 14]\nclass = Yes", fillcolor="#63b2eb"] ;
+9 -> 10 ;
+11 [label="samples = 90\nvalue = [45, 45]\nclass = No", fillcolor="#ffffff"] ;
+9 -> 11 ;
+12 [label="EnvironmentSatisfaction <= 2.5\nsamples = 186\nvalue = [150, 36]\nclass = No", fillcolor="#eb9f69"] ;
+8 -> 12 ;
+13 [label="samples = 59\nvalue = [39, 20]\nclass = No", fillcolor="#f2c29f"] ;
+12 -> 13 ;
+14 [label="samples = 127\nvalue = [111, 16]\nclass = No", fillcolor="#e99356"] ;
+12 -> 14 ;
+}

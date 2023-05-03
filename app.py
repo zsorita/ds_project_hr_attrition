@@ -444,8 +444,6 @@ def predictive_model():
     JobSatisfaction = st.radio("▸   ***Level of satisfaction with current job.***", ["Low", "Medium", "High", "Very High"])
     EnvironmentSatisfaction = st.radio("▸   ***Level of satisfaction with current work environment.***", ["Low", "Medium", "High", "Very High"])
 
-    st.divider()
-
 
     Gender = 1 if Gender == "Male" else 0
 
@@ -560,26 +558,40 @@ def predictive_model():
             # Display the prediction
             if prediction[0]==0:
                 st.success("Great news! The employee is likely to stay with the company.", icon="👍")
-                st.subheader("")
+                st.markdown(
+                    """
+                        This is an opportunity to provide the employee with growth opportunities that can help them feel more engaged and committed to the company. 
+                        
+                        Consider offering training programs, mentorship, and other development opportunities to help the employee advance in their career.
+                    """
+                )
 
-                st.write(user_input_df)
-                st.write(encoded_user_input)
-                st.write(user_input_imputed)
-                st.write(prediction)
 
             else:
                 st.error("Uh-oh, it looks like the employee may be at risk of leaving the company.", icon="⚠️")
-                st.subheader("")
+                st.markdown(
+                    """
+                        There could be several factors that contribute to an employee's desire to leave the company. 
+                        
+                        One possible reason could be a lack of career growth opportunities. Consider providing the employee with a clear career path, mentorship, and training programs to help them see a future with the company. It is also important to assess their compensation and workload to ensure they are fair and reasonable. Additionally, offering work-life balance and other incentives such as travel opportunities can help retain the employee.    
+                    """
+                )
 
-                st.write(user_input_df)
-                st.write(encoded_user_input)
-                st.write(user_input_imputed)
-                st.write(prediction)
+    col1, col2, col3 = st.columns(3)
 
-    st.subheader("Predict")
-    if st.button('Predict'):
+    with col1:
+        pass
+    with col3:
+        pass
+    with col2 :
+        center_button = st.button('**Predict Employee Attrition**')
+    
+    st.divider()
+
+    if center_button:
         predict_attrition()
 
+    
     #################### END ####################
 
 

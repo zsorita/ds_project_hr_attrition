@@ -22,6 +22,9 @@ def introduction():
 
     st.title("From Data to Retention: An Analysis of Employee Attrition")
 
+    st.image("./assets/img/intro_img.png")
+    st.caption("Source: *https://www.insureon.com/blog/what-is-an-employee*")
+
     st.markdown(
         """
         The IT-BPM industry has reported an average attrition rate of 30 to 40 percent in 2022, which increased by over 10 points over the previous year. 
@@ -573,7 +576,9 @@ def predictive_model():
                     """
                         There could be several factors that contribute to an employee's desire to leave the company. 
                         
-                        One possible reason could be a lack of career growth opportunities. Consider providing the employee with a clear career path, mentorship, and training programs to help them see a future with the company. It is also important to assess their compensation and workload to ensure they are fair and reasonable. Additionally, offering work-life balance and other incentives such as travel opportunities can help retain the employee.    
+                        One possible reason could be a lack of career growth opportunities. Consider providing the employee with a clear career path, mentorship, and training programs to help them see a future with the company. It is also important to assess their compensation and workload to ensure they are fair and reasonable. 
+                        
+                        Additionally, offering work-life balance and other incentives such as travel opportunities can help retain the employee.    
                     """
                 )
 

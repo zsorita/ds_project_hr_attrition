@@ -23,6 +23,7 @@ def introduction():
     st.title("From Data to Retention: An Analysis of Employee Attrition")
 
     st.image("./assets/img/intro_img.png")
+
     st.caption("Source: *https://www.insureon.com/blog/what-is-an-employee*")
 
     st.markdown(
@@ -39,13 +40,8 @@ def introduction():
 
     st.subheader("Research Objectives")
 
-    st.markdown(
-        """
-        1.  Discover factors and reasons that could cause employee turnover in Avyan.
-        2.  Develop a predictive model that determines whether an employee is likely to leave from the company.  
-        3.  Evaluate and recommend retention strategies that can enhance the organizational culture of the company.
-        """
-    )
+    st.image("./assets/img/objectives_img.png")
+
     
     st.subheader("Methodology")
 
@@ -185,7 +181,7 @@ def viz_variables():
 
             st.markdown(
                 """
-                The graph depicts that the majority of employees recorded having a good to better work-life balance, while those who had a poor work-life balance had a higher attrition rate. 
+                The graph depicts that the majority of employees recorded having a **good to better work-life balance**, while those who had a poor work-life balance had a higher attrition rate. 
 
                 """
             )
@@ -199,7 +195,7 @@ def viz_variables():
 
             st.markdown(
                 """
-                Insigts from the graph shows that the number of training completed by employees in the previous year, with the majority completing 3-6 trainings. It is also noteworthy that employees who did not receive any training have a higher attrition rate. Based on the previous graph, this could possibly indicate that those who did not receive training are entry-level employees.
+                Insigts from the graph shows that the number of training completed by employees in the previous year, with the majority **completing 3-6 trainings**. It is also noteworthy that employees who did not receive any training have a higher attrition rate. Based on the previous graph, this could possibly indicate that those who did not receive training are entry-level employees.
 
                 """
             )
@@ -216,7 +212,7 @@ def viz_variables():
             st.markdown(
                 """
                 
-                According to the graph, a significant portion of employees have worked for less than 10 years. Notably, employees with 0 to 5 years of service show a high attrition rate.
+                According to the graph, a significant portion of employees have worked for **less than 10 years**. Notably, employees with 0 to 5 years of service show a high attrition rate.
 
                 """
             )
@@ -282,9 +278,9 @@ def discussion():
     
     st.markdown(
         """
-        Avyan has a significant number of young employees, ranging from 18-25 years old. A general observation outlines that younger employees are more likely to leave their jobs to pursue career growth opportunities, while most older employees tend to be more content with their current job and some are only waiting for their retirement. Also in 2022, it is said that there has been an increase in short-term employees, which are mostly younger employees who left to find and pursue their desired career paths. 
+        Avyan has a significant number of young employees (18-25 years old) who are more likely to leave their jobs for career growth opportunities. Dissatisfaction with current roles, demands for higher compensation, and managerial concerns can also contribute to their attrition. 
         
-        Aside from these, concrete issues such as dissatisfaction with their current roles, demands for higher compensation, and managerial concerns also drive younger employees’ attrition. To prevent the attrition of these talented young employees, it is crucial to provide them with proper guidance and support to help them progress in their careers. The company must create an environment that fosters personal and professional growth, allowing them to enjoy and find fulfillment in their work. By addressing these issues and offering career growth opportunities, the company can retain its young talent and cultivate a positive workplace culture.
+        To retain this young talent, Avyan must create an environment that fosters personal and professional growth, offering career growth opportunities and support. By doing so, Avyan can cultivate a positive workplace culture and prevent the loss of its talented young employees.
 
         """
     )
@@ -366,7 +362,9 @@ def discussion():
     
     st.markdown(
         """
-        Creating a positive work environment is crucial in enhancing job satisfaction and motivating employees. When employees feel valued and supported through open communication, respect, inclusivity, and conflict resolution, they tend to perform better, resulting in increased productivity and better business outcomes. Additionally, providing opportunities for learning and growth and recognizing employees' hard work can further enhance their job satisfaction, making them more engaged and committed to their job. By prioritizing a positive work environment and employee satisfaction, organizations can reduce attrition rates and ultimately achieve better business results.
+        Creating a positive work environment is crucial in enhancing job satisfaction and motivating employees. When employees feel valued and supported through open communication, respect, inclusivity, and conflict resolution, they tend to perform better, resulting in increased productivity and better business outcomes. 
+        
+        Additionally, providing opportunities for learning and growth and recognizing employees' hard work can further enhance their job satisfaction, making them more engaged and committed to their job. By prioritizing a positive work environment and employee satisfaction, organizations can reduce attrition rates and ultimately achieve better business results.
         """
     )
 
@@ -381,18 +379,10 @@ def discussion():
 
     # REFERENCES
     st.caption("References:")
-    st.write(
-        """
-        - https://mb.com.ph/2022/03/06/itbpm-industry-faces-pressing-talent-scarcity/
-        - https://executivesunlimited.com/understanding-short-tenured-employees/
-        - https://yourstory.com/2017/11/business-travel-impacts-overall-job-satisfaction
-        - https://researchleap.com/wp-content/uploads/2021/08/02_The-Impact-Work-Life-Balance-toward-Job-Satisfaction.pdf
-        - https://www.sciencedirect.com/science/article/pii/S2212567115005249
-        - https://smallbusiness.chron.com/relationship-between-work-environment-job-satisfaction-organization-employee-turnover-11980.html
-        """
 
-    )
+    st.image("./assets/img/references_img.png")
 
+    
     #################### END ####################
 
 

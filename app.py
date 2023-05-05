@@ -80,9 +80,6 @@ def viz_variables():
         """
     )
 
-    ########
-
-
     with st.container():
 
         tab1, tab2, tab3 = st.tabs(["**Demographic Variables**", "**Work-Related Factors**", "**Employee Satisfaction**"])

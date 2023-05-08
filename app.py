@@ -277,7 +277,7 @@ def discussion():
         """
         Avyan has a significant number of young employees (18-25 years old) who are more likely to leave their jobs for career growth opportunities. Dissatisfaction with current roles, demands for higher compensation, and managerial concerns can also contribute to their attrition. 
         
-        To retain this young talent, Avyan must create an environment that fosters personal and professional growth, offering career growth opportunities and support. By doing so, Avyan can cultivate a positive workplace culture and prevent the loss of its talented young employees.
+        To retain these young talents, Avyan must create an environment that fosters personal and professional growth, offering career growth opportunities and support. By doing so, Avyan can cultivate a positive workplace culture and prevent the loss of its talented young employees.
 
         """
     )

@@ -413,6 +413,13 @@ def predictive_model():
 
         The **SHAP (SHapley Additive exPlanations)** technique was utilized to calculate and represent feature importances for the Gradient Boosting Classifier model that was trained on the dataset. It was observed that the most contributing features were Tenure, Monthly Income, and whether or not the employee works overtime.
                 
+        """
+    )
+
+    st.warning("*This predictive model is designed specifically for the context of Avyan and is not intended for generic use across different organizations or industries. It is important to keep in mind the limitations of the model's generalizability and to exercise caution when attempting to apply its predictions or insights outside of the Avyan context.*")
+
+    st.markdown(
+        """   
         To determine whether an employee is likely to leave, please provide the required information in the following feature fields:
         """
     )

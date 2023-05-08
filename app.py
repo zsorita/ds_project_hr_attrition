@@ -410,10 +410,13 @@ def predictive_model():
     st.markdown(
         """
         Building the attrition prediction model involved training the model with an imbalanced dataset, which means one class is more dominant than the other. To overcome potential bias in predictions, the **Random Undersampling** technique was employed to balance the dataset. This involved randomly selecting and removing samples from the majority class until the distribution between classes became even. To further enhance the model's accuracy, the **Gradient Boosting** algorithm was utilized.
+
+        The **SHAP (SHapley Additive exPlanations)** technique was utilized to calculate and represent feature importances for the Gradient Boosting Classifier model that was trained on the dataset. It was observed that the most contributing features were Tenure, Monthly Income, and whether or not the employee works overtime.
                 
         To determine whether an employee is likely to leave, please provide the required information in the following feature fields:
         """
     )
+
 
     st.subheader("Demographics")
     Gender = st.radio("▸   ***Gender***", ["Male", "Female"])

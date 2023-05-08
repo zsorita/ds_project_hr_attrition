@@ -416,7 +416,7 @@ def predictive_model():
         """
     )
 
-    st.warning("This predictive model is designed specifically for the context of Avyan and is not intended for generic use across different organizations or industries. It is important to keep in mind the limitations of the model's generalizability and to exercise caution when attempting to apply its predictions or insights outside of the Avyan context.", icon='⚠️')
+    st.warning("This predictive model is designed specifically for the context of Avyan and is not intended for generic use across different organizations or industries.", icon='⚠️')
 
     st.markdown(
         """   

@@ -409,8 +409,8 @@ def predictive_model():
     st.title('Employee Attrition Prediction')
     st.markdown(
         """
-        The attrition prediction model utilizes the Gradient Boosting algorithm and considers several factors to predict the likelihood of an employee's attrition. 
-        
+        Building the attrition prediction model involved training the model with an imbalanced dataset, which means one class is more dominant than the other. To overcome potential bias in predictions, the **Random Undersampling** technique was employed to balance the dataset. This involved randomly selecting and removing samples from the majority class until the distribution between classes became even. To further enhance the model's accuracy, the **Gradient Boosting** algorithm was utilized.
+                
         To determine whether an employee is likely to leave, please provide the required information in the following feature fields:
         """
     )
